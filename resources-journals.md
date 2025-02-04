@@ -2,6 +2,7 @@
 
 - [Cordite Poetry Review](http://cordite.org.au/)
 - [Voiceworks Online](https://www.voiceworksmag.com.au/online)
+- [The Suburban Review - New Media](https://thesuburbanreview.com/new-media/)
 - [The New River](https://thenewriver.us/)
 - [Taper](https://taper.badquar.to/)
 - [voidspace_](https://voidspacezine.com/)
