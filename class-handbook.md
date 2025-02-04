@@ -1,4 +1,4 @@
-# CLASS HANDBOOK FOR
+# CLASS HANDBOOK
 
 ## Digital Writing
 
@@ -10,9 +10,9 @@ There is no requirement to have any skills in relation to the digital – in oth
 
 This studio is for those who wish to experiment with their writing practice and take a more conscious approach to the tools with which they write, or those interested in form and its possibilities and constraints. 
 
-[About Jenny Hedley] (https://jennyhedley.github.io/)
+[About Jenny Hedley](https://jennyhedley.github.io/)
 
-[About Lucinda Strahan] (https://orcid.org/0000-0002-7090-9506)
+[About Lucinda Strahan](https://orcid.org/0000-0002-7090-9506)
 
 ## Teaching schedule for 2025
 
