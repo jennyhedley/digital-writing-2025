@@ -4,7 +4,7 @@ RMIT University 2025 Digital Writing Lab notes and exercises.
 ## Class Resources
 
 - [Reading list on Canvas](https://rmit.alma.exlibrisgroup.com/leganto/public/61RMIT_INST/lists/48314008980001341?auth=SAML)
-- [Class handbook](https://rmit.instructure.com/courses/130722/pages/class-handbook-digital-writing)
+- [Class handbook](/class-handbook.md)
 - [GitHub repository for weekly class updates](https://github.com/jennyhedley/digital-writing-2025)
 
 ## Class GitHub Accounts
@@ -23,10 +23,10 @@ Read (on top of the weekly readings):
 
 Familiarise yourself with the following student resources as well as the Student Charter:
 
-- [Heath and Wellbeing] (https://www.rmit.edu.au/students/support-services/health-safety-wellbeing)
-- [Study Support, including Academic Integrity and Assignment Support] (https://www.rmit.edu.au/students/study-support)
-- [Ngarara Willim Centre] (https://www.rmit.edu.au/students/support-and-facilities/student-support/aboriginal-and-torres-strait-islander-students)
-- [RMIT Student Charter] (https://www.rmit.edu.au/students/student-essentials/rights-and-responsibilities/student-responsibilities/student-charter)
+- [Heath and Wellbeing](https://www.rmit.edu.au/students/support-services/health-safety-wellbeing)
+- [Study Support, including Academic Integrity and Assignment Support](https://www.rmit.edu.au/students/study-support)
+- [Ngarara Willim Centre](https://www.rmit.edu.au/students/support-and-facilities/student-support/aboriginal-and-torres-strait-islander-students)
+- [RMIT Student Charter](https://www.rmit.edu.au/students/student-essentials/rights-and-responsibilities/student-responsibilities/student-charter)
   
 # Week 1 - for use in class
 
