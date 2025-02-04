@@ -25,7 +25,7 @@ The folio demonstrates your experimentation and engagement with the form during 
 6. Referencing
    - Consistent referencing
 
-Ensure that you read the [digital writing folio assessment description in the course handbook](https://rmit.instructure.com/courses/130722/pages/class-handbook-digital-writing).
+Ensure that you read the [digital writing folio assessment description in the class handbook](./class-handbook.md).
 
 Try to capture as much as you can in your folio. If you had a few iterations of your final project or experimented with techniques you did not use in your final piece; the folio is the place to record this with reflections and/or links to the experiments.
 
