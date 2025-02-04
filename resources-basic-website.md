@@ -16,10 +16,10 @@
 - [freeCodeCamp](https://www.freecodecamp.org/)
 - [The Coding Train YouTube channel](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 
-## Create a Simple Website
+## Create a Simple Website (Free)
 
-- Download GitHub Desktop
-- Download Visual Studio Code
+- Download [GitHub Desktop](https://desktop.github.com/)
+- Download [Visual Studio Code](https://code.visualstudio.com/)
 - Create a folder/directory
 - Create a new repository username.github.io in GitHub Desktop
 - Add the base empty files:
@@ -28,14 +28,19 @@
 - Add basic HTML to the index.html
 - Update the index.html with content such as:
   - Your name
--- Your photo
--- Links to your two remix exercises
--- Publications
--- Artist statement
--- Biography
+  - Your photo
+  - Links to your two remix exercises
+  - Publications
+  - Artist statement
+  - Biography
 - Add styles to the styles.css
 - Update the styles.css with styles such as:
--- Font
--- Background and text colour
--- Layout changes
+  - Font
+  - Background and text colour
+  - Layout changes
+ 
+## Commercial Website Builders/Services
 
+- [WordPress](https://wordpress.com/)
+- [Squarespace](https://www.squarespace.com/)
+- [Weebly](https://www.weebly.com/au)
