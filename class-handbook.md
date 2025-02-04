@@ -37,7 +37,8 @@ There will also be works of electronic literature to read and present back on in
 ### Task 1: Individual case study (25%)
 
 3-5 minute presentation and discussion
-Due Week 4 in class on Wednesday 26th March
+
+**Due Week 4 in class on Wednesday 26th March**
 
 Prepare a case study of a work of electronic literature. How does it work? What does it do? How does the reader interact with the piece? What kinds of questions does it raise for you? You should include a detailed analysis of form, to offer your lab group some context, and share with us what you have learnt that might relate to your own practice or potential output.
 
@@ -59,7 +60,7 @@ Afterwards, please upload your Powerpoint to Canvas.
 
 5-minute presentation plus materials e.g. draft creative work.
 
-Due Week 8 in class on Monday 28th April
+**Due Week 8 in class on Monday 28th April**
 
 Present your creative work-in-progress to an audience of your peers who will provide professional feedback on how to develop your work. This must include an early prototype, a proposal for the final length of the work and at least 4 pages of design or text, presented as a slideshow e.g. Powerpoint, narrated and contextualised by you.
 
@@ -69,7 +70,7 @@ Afterwards, please upload your Powerpoint to Canvas.
 
 Folio of 15-30 pages comprising creative experiments (including screenshots with a links for the digital experiments), professional materials, reflection and a work of electronic literature with a length agreed on by your lab leader.
 
-End of Week 13, by midnight, to TurnItIn/Canvas
+**Due end of Week 13, by midnight, to TurnItIn/Canvas**
 
 Deliver a folio of the work developed during your lab and an accompanying, formal reflection that engages with the studio, the group, and the development of your work over/through the course of the semester, asking: how does my work fit within the context of my community?
 
