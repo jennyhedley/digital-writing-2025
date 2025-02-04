@@ -7,6 +7,7 @@
 - [voidspace_](https://voidspacezine.com/)
 - [the html review](https://thehtml.review/)
 - [Crawlspace](https://crawlspace.cool/)
+- [electronic book review](https://electronicbookreview.com/)
 - [The Electronic Literature Collections](https://collection.eliterature.org/)
 - [Woollahra Digital Literary Award](https://www.woollahra.nsw.gov.au/Library/Digital-literary-award)
 
