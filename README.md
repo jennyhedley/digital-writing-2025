@@ -47,8 +47,8 @@ Familiarise yourself with the following student resources as well as the Student
 ### Electronic Literature
 
 - Defining e-lit
-- [The Electronic Literature Collections] (https://collection.eliterature.org/)
-- [Woollahra Digital Literary Award] (https://www.woollahra.nsw.gov.au/Library/Digital-literary-award)
+- [The Electronic Literature Collections](https://collection.eliterature.org/)
+- [Woollahra Digital Literary Award](https://www.woollahra.nsw.gov.au/Library/Digital-literary-award)
   
 ### Reading
 
