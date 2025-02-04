@@ -40,3 +40,5 @@ For the submission to Canvas, the document should include:
 - Additional pages to your submission document, which include your reflections on your community of practice and experiences workshopping your creative project if these are not included in your folio repository.
 - Any documentation on the development of your creative work with any scans of any designs and notes.
 - [Coversheet for your developed creative work](./coversheet-for-developed-creative-work.md)
+
+See [Canvas for the rubric.](https://rmit.instructure.com/courses/146513/assignments/1050257)
