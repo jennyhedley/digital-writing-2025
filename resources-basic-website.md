@@ -15,6 +15,7 @@
 - [Codeacademy](https://www.codecademy.com/catalog)
 - [freeCodeCamp](https://www.freecodecamp.org/)
 - [The Coding Train YouTube channel](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
+- Express Media occasionally runs free [Digital Storytelling workshops](https://www.expressmedia.org.au/programs) for young writers (<25)
 
 ## Create a Simple Website (Free)
 
