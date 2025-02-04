@@ -2,8 +2,10 @@
 
 [HTML/HyperText Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - Structure
+  
 [CSS/Cascading Style Sheets](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - Presentation (Screen/Print/Audio)
+
 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - Behaviour
 
@@ -21,11 +23,11 @@
 - Create a folder/directory
 - Create a new repository username.github.io in GitHub Desktop
 - Add the base empty files:
--- index.html
--- css/styles.css
+  - index.html
+  - css/styles.css
 - Add basic HTML to the index.html
 - Update the index.html with content such as:
--- Your name
+  - Your name
 -- Your photo
 -- Links to your two remix exercises
 -- Publications
