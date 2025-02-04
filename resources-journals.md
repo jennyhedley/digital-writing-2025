@@ -1,6 +1,6 @@
 # Journals, Zines, Publications, Contests
 
-- [Cordite Poetry Review](http://cordite.org.au/)
+- [Cordite Poetry Review](http://cordite.org.au/) and especially their ['GAME' issue](http://cordite.org.au/content/poetry/game/)
 - [Voiceworks Online](https://www.voiceworksmag.com.au/online)
 - [The Suburban Review - New Media](https://thesuburbanreview.com/new-media/)
 - [The New River](https://thenewriver.us/)
