@@ -1,8 +1,8 @@
-#CLASS HANDBOOK FOR
+# CLASS HANDBOOK FOR
 
-##Digital Writing
+## Digital Writing
 
-###With Jenny Hedley and Lucinda Strahan
+### With Jenny Hedley and Lucinda Strahan
 
 This studio focuses on electronic/digital writing – that is, writing (poetry, fiction, nonfiction or other) that relies on computation to be realised. This includes computer-generated writing, hypertext and interactive fiction, and digital poetry. We will also look at print precursors that use techniques associated with digital literature (for example, the processes employed by the Oulipo writers). We will explore interactive literary concepts, such as what it means when readers can make choices in a narrative or move the words in a poem, and how to use these techniques to develop or alter your work.
 
@@ -14,7 +14,7 @@ This studio is for those who wish to experiment with their writing practice and 
 
 [About Lucinda Strahan] (https://orcid.org/0000-0002-7090-9506)
 
-##Teaching schedule for 2025
+## Teaching schedule for 2025
 
 DIGITAL WRITING
 
@@ -32,9 +32,10 @@ There will be readings almost every week - more in the early weeks, fewer in the
 
 There will also be works of electronic literature to read and present back on in class.
 
- ##Assessment Tasks
+## Assessment Tasks
 
-###Task 1: Individual case study (25%)
+### Task 1: Individual case study (25%)
+
 3-5 minute presentation and discussion
 Due Week 4 in class on Wednesday 26th March
 
@@ -54,7 +55,8 @@ Please leave the class with 1 question at the end of the talk. The question shou
 
 Afterwards, please upload your Powerpoint to Canvas.
 
- ###Task 2: Proposal (25%)
+### Task 2: Proposal (25%)
+
 5-minute presentation plus materials e.g. draft creative work.
 
 Due Week 8 in class on Monday 28th April
@@ -63,7 +65,8 @@ Present your creative work-in-progress to an audience of your peers who will pro
 
 Afterwards, please upload your Powerpoint to Canvas.
 
-###Task 3: Folio including a developed creative work (50%)
+### Task 3: Folio including a developed creative work (50%)
+
 Folio of 15-30 pages comprising creative experiments (including screenshots with a links for the digital experiments), professional materials, reflection and a work of electronic literature with a length agreed on by your lab leader.
 
 End of Week 13, by midnight, to TurnItIn/Canvas
