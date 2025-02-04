@@ -1,4 +1,4 @@
-# Journals, Zines and Publications
+# Journals, Zines, Publications, Contests
 
 - [Cordite Poetry Review](http://cordite.org.au/)
 - [Voiceworks Online](https://www.voiceworksmag.com.au/online)
@@ -7,6 +7,8 @@
 - [voidspace_](https://voidspacezine.com/)
 - [the html review](https://thehtml.review/)
 - [Crawlspace](https://crawlspace.cool/)
+- [The Electronic Literature Collections](https://collection.eliterature.org/)
+- [Woollahra Digital Literary Award](https://www.woollahra.nsw.gov.au/Library/Digital-literary-award)
 
 It is always worth reaching out to online journals when they have calls for submissions. Even if they don’t currently publish electronic literature, they may like your piece enough to publish it.
 
