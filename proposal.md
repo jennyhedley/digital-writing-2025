@@ -9,4 +9,4 @@ Some other questions you should try to answer in your proposals:
 
 Afterwards, please upload your presentation and supporting materials to Canvas.
 
-See Canvas for [further details and the rubric for the assessment](https://rmit.instructure.com/courses/130722/assignments/922769).
+See Canvas for [further details and the rubric for the assessment]([https://rmit.instructure.com/courses/130722/assignments/922769](https://rmit.instructure.com/courses/146513/assignments/1050256).
