@@ -12,7 +12,7 @@ This studio is for those who wish to experiment with their writing practice and 
 
 [About Jenny Hedley](https://jennyhedley.github.io/)
 
-[About Lucinda Strahan](https://orcid.org/0000-0002-7090-9506)
+[About Lucinda Strahan]([https://orcid.org/0000-0002-7090-9506](https://linktr.ee/lucindastrahan?ltsid=014ea752-61f7-47f7-896a-d216e970ac0d)
 
 ## Teaching schedule for 2025
 
