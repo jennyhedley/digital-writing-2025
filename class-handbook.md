@@ -14,6 +14,12 @@ This studio is for those who wish to experiment with their writing practice and 
 
 [About Lucinda Strahan](https://linktr.ee/lucindastrahan?ltsid=014ea752-61f7-47f7-896a-d216e970ac0d)
 
+## Note about email contact, consultation and enquiries outside of class
+
+Please feel free to email us about Equitable Learning Plans, any circumstances that require extensions or anything that’s getting in the way of your studies. If you have technical issues there will be time for trouble shooting in class - please be mindful that your issue is likely to be the same issue for others so sharing it in class time is the best thing for everyone. Please use the Github and online resources as well as your peers to find answers to your questions.
+ 
+Jenny and Lucinda will have an open drop in Teams video meeting each Monday from 12-1pm for consultation outside class.
+
 ## Teaching schedule for 2025
 
 DIGITAL WRITING
