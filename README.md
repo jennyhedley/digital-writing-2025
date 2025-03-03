@@ -93,15 +93,15 @@ Write a 100-word biographical note. Use the questions you answered above as star
 
 ## Intro to the Coding Playground
 
-- Create an account on [Glitch.com] (https://glitch.com/) using your GitHub login credentials
-- Remix this code: [https://glitch.com/edit/#!/dw-coding-playground] (https://glitch.com/edit/#!/dw-coding-playground)
+- Create an account on [Glitch.com](https://glitch.com/) using your GitHub login credentials
+- Remix this code: [https://glitch.com/edit/#!/dw-coding-playground](https://glitch.com/edit/#!/dw-coding-playground)
 
 Here are some miscellaneous resources that you will find helpful as we code today:
 
-- [Google fonts] (https://fonts.google.com/)
-- [Hex colour codes] (https://htmlcolorcodes.com/) 
-- Check if your [colour contrast is accessible] (https://webaim.org/resources/contrastchecker/)
-- [Royalty-free images] (https://unsplash.com/)
-- [Emojis] (https://tools.picsart.com/text/emojis/)
-- [GIFs] (https://giphy.com/)
-- [ChatGPT for troubleshooting code] (https://chat.openai.com/)
+- [Google fonts](https://fonts.google.com/)
+- [Hex colour codes](https://htmlcolorcodes.com/) 
+- Check if your [colour contrast is accessible](https://webaim.org/resources/contrastchecker/)
+- [Royalty-free images](https://unsplash.com/)
+- [Emojis](https://tools.picsart.com/text/emojis/)
+- [GIFs](https://giphy.com/)
+- [ChatGPT for troubleshooting code](https://chat.openai.com/)
