@@ -24,7 +24,7 @@ Jenny and Lucinda will have an open drop in Teams video meeting each Monday from
 
 DIGITAL WRITING
 
-2.30pm - 5pm Mondays
+2.30pm - 5.30pm Mondays
 Weeks 1 to 12 (excepting Week 2 as it is a public holiday)
 Face-to-face 
 
