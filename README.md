@@ -9,7 +9,24 @@ RMIT University 2025 Digital Writing Lab notes and exercises.
 
 ## Class GitHub Accounts
 
-- to be created/added in class
+- [Angelo](https://github.com/AngeloKoulouris7)
+- [Angus](https://github.com/AngusK-rmit)
+- [Charlotte](https://github.com/charlotte-B4)
+- [Farida](https://github.com/faridashams)
+- [Isabella](https://github.com/BellaTatts)
+- [Maya](https://github.com/mazpod44)
+- [Jordan](https://github.com/PieOfEpicness)
+- [Liv](https://github.com/Livdelesantis)
+- [Loke](https://github.com/LokeBritz)
+- [Luke](https://github.com/LukeWMoroney)
+- [Marley](https://github.com/marleyabbott)
+- [Mollie](https://github.com/azur1al)
+- [Olivia](https://github.com/oliviabrcan)
+- [Ruby](https://github.com/RCGrant)
+- [Sarah](https://github.com/sarah2361)
+- [Thomas](https://github.com/Thomas-McLean)
+- [Toulani](https://github.com/lanisalt)
+- [Zoë](https://github.com/zoeniamh) 
 
 ## Before Week 1
 
