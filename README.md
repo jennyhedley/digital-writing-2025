@@ -3,7 +3,7 @@ RMIT University 2025 Digital Writing Lab notes and exercises.
 
 ## Class Resources
 
-- [Reading list on Canvas](https://rmit.alma.exlibrisgroup.com/leganto/public/61RMIT_INST/lists/53282813420001341?auth=SAML)
+- [Reading list on Canvas](https://rmit.alma.exlibrisgroup.com/leganto/public/61RMIT_INST/lists/53766783660001341?auth=SAML)
 - [Class handbook](/class-handbook.md)
 - [GitHub repository for weekly class updates](https://github.com/jennyhedley/digital-writing-2025)
 
