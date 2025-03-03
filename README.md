@@ -90,3 +90,8 @@ Edit the `exercises.md` page you just created in your digital writing folio and 
 ## Write a Bio Note
 
 Write a 100-word biographical note. Use the questions you answered above as starting points. Add the biographical note to the `README.md` of your GitHub digital writing folio repository.
+
+## Intro to the Coding Playground
+
+- [https://glitch.com/edit/#!/dw-coding-playground](https://glitch.com/edit/#!/dw-coding-playground)
+
