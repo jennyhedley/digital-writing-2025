@@ -94,7 +94,7 @@ Write a 100-word biographical note. Use the questions you answered above as star
 ## Intro to the Coding Playground
 
 - Create an account on [Glitch.com] (https://glitch.com/) using your GitHub login credentials
-- Remix this code: [https://glitch.com/edit/#!/dw-coding-playground](https://glitch.com/edit/#!/dw-coding-playground)
+- Remix this code: [https://glitch.com/edit/#!/dw-coding-playground] (https://glitch.com/edit/#!/dw-coding-playground)
 
 Here are some miscellaneous resources that you will find helpful as we code today:
 
