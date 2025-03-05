@@ -12,6 +12,7 @@ RMIT University 2025 Digital Writing Lab notes and exercises.
 - [Angelo](https://github.com/AngeloKoulouris7)
 - [Angus](https://github.com/AngusK-rmit)
 - [Charlotte](https://github.com/charlotte-B4)
+- [Emily](https://github.com/emilyvandenbroeck)
 - [Farida](https://github.com/faridashams)
 - [Isabella](https://github.com/BellaTatts)
 - [Maya](https://github.com/mazpod44)
