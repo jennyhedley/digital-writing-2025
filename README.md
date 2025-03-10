@@ -114,6 +114,14 @@ Write a 100-word biographical note. Use the questions you answered above as star
 - Create an account on [Glitch.com](https://glitch.com/) using your GitHub login credentials
 - Remix this code: [https://glitch.com/edit/#!/dw-coding-playground](https://glitch.com/edit/#!/dw-coding-playground)
 
+# Week 2 - for use in class
+
+This Wednesday we will be working in the [coding playground](https://glitch.com/edit/#!/dw-coding-playground) that you began to remix last week. 
+
+If you missed out on the first week of classes, please make sure that you have set up a GitHub account, have signed into Glitch.com using your GitHub credentials so that the accounts are linked, that you follow the exercises including Hello, World! and setting up your Digital Writing folio as explained above, that you're familiar with the documentation in this class GitHub repository (including the class handbook and assessments) and are up to date on the class readings (link in handbook).
+
+In class this week we will learn step-by-step how to make changes to HTML, CSS and JavaScript. You will learn to import fonts of your choosing into the stylesheet; how to edit text, emojis and images; how to set background colours and apply various style changes. You will also learn how to edit textual arrays in order to fuel combinatory poetry which is pseudo-randomly generated.
+
 Here are some miscellaneous resources that you will find helpful as we code today:
 
 - [Google fonts](https://fonts.google.com/)
