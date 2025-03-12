@@ -22,11 +22,13 @@ RMIT University 2025 Digital Writing Lab notes and exercises.
 - [Luke](https://github.com/LukeWMoroney)
 - [Marley](https://github.com/marleyabbott)
 - [Mollie](https://github.com/azur1al)
+- [Ollie](https://github.com/OllieSpencer)
 - [Olivia](https://github.com/oliviabrcan)
 - [Ruby](https://github.com/RCGrant)
 - [Sarah](https://github.com/sarah2361)
 - [Thomas](https://github.com/Thomas-McLean)
 - [Toulani](https://github.com/lanisalt)
+- [Upani](https://github.com/upanicp)
 - [Zoë](https://github.com/zoeniamh) 
 
 ## Before Week 1
