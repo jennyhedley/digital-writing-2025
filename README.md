@@ -136,6 +136,8 @@ Here are some miscellaneous resources that you will find helpful as we code toda
 
 # Week 3 - for use in class
 
+## Monday 17th March
+
 This Monday we will finish working in the [coding playground](https://glitch.com/edit/#!/dw-coding-playground) which we remixed. In class, we will remix the last three poems, as follows, then publish our coding playgrounds via GitHub Pages. 
 
 It is important that you engage with these exercises, as Jenny and Lucinda will expect to see these published experiments when you submit your folio at the end of semester, which forms half of your marks. It is important to document your learning and your engagement with coding, as you figure out the technical possibilities for what your final project will look like. Even if you choose not to go with HTML/CSS/JS for your project, it is the most basic programming syntax which fuels nearly every online literary journal and is therefore worth being exposed to. If you do not yet have an author website - another requirement of the folio - building one on Glitch and publishing it on GitHub Pages is a simple and free mode of fulfilling this requirement. There will be further opportunities later in the semester to build author sites.
@@ -148,5 +150,19 @@ If you are absent from class, be sure to complete the following exercises that w
 
 Once you have finished these exercises, be sure to click TOOLS -> IMPORT/EXPORT -> EXPORT TO GITHUB then put in your username/repositoryname to push your changes to your GitHub repository. Then, once in GitHub, view that repository and follow the green buttons: COMPARE & PULL REQUEST, CREATE PULL REQUEST, MERGE PULL REQUEST, CONFIRM MERGE.
 
-Next we will publish our code on [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site).
+Next we will publish our code on [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site). You can follow the instructions in the link or follow along in class.
+
+Finally, let's reflect on our remixed versions of Nick Monfort's poems. Edit the edit `exercises.md` page in your GitHub digital writing folio and add the following questions with your answers to the questions:
+
+- What aspects of the remix are the same?
+- What aspects of the remix are different?
+- Is the remix successful (why or why not)?
+
+Now that we have completed the technical HTML/CSS/JS portion of our learning, reflect also on these questions:
+
+- How do you feel about coding now versus how you felt going into this in Week 1? 
+- Has your hands-on engagement with interactive digital literature shifted the way that you 'read' e-lit? In what ways?
+
+Next Monday we will begin to look at Twine, a popular platform for creating branching, choose-your-own-adventure style literature. In advance of this, think about what story you would like to tell, that could make use of Twine's branching mode of storytelling. You may already have an unpublished work-in-progress on your hard drive, or maybe you will be inspired to create something new.
+ 
 
