@@ -136,6 +136,8 @@ Here are some miscellaneous resources that you will find helpful as we code toda
 
 # Week 3 - for use in class
 
-This Monday we will finish working in the [coding playground](https://glitch.com/edit/#!/dw-coding-playground). We will remix the last three poems:
+This Monday we will finish working in the [coding playground](https://glitch.com/edit/#!/dw-coding-playground). In class, we will remix the last three poems:
 
+- The 'Garfield' poem is a form of combinatory poetry that operates within a constraint. In this case, clicking the 'remix' button results in the placeholder text being replaced with three haikus. These haikus are populated from arrays of poetic phrases that are five syllables long - from the `const fiveSyllables =` array in the script.js file - and seven syllables long - from the `const sevenSyllables =` array. Edit these arrays to make haiku of your own, then be sure to change the placeholder text in the index.html file in the `<div class="cardHaiku">` area. Also be sure to apply new style properties (font, font colour, background colour, etc.) in the corresponding `.cardHaiku` class on the style.css file. 
 - The 'SEARCHING' poem is a way to play with the auto-complete function of a search engine. Inspect your own browser history, or turn to Google or another search engine, to investigate a particular topic. You can either follow your own interests or exploit Google's autocomplete function to create your own database of search results - just make sure that you have at least one result for every letter of the alphabet. You will enclose each line of search results withing parenthesis, followed by a single comma, in the `const words =` array on the script.js file.
+
