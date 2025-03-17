@@ -218,14 +218,13 @@ Vary this technique (e.g. N+9).
 
 #### Remix "To Make a Dadaist Poem"
 
-- Create a [Glitch](https://glitch.com/) account by signing up with your GitHub account
-- Link your GitHub account
+- If you haven't done so already, create a [Glitch](https://glitch.com/) account by signing up with your GitHub account and link your GitHub account
 - Select "Remix on Glitch" on ["To Make a Dadaist Poem"](https://to-make-a-dadaist-poem.glitch.me)
 - Create a repository in GitHub for the remix
 - Change the article text (use your own text, text from a newspaper article or from a book on [Project Gutenberg](https://www.gutenberg.org/))
 - Change the line length
 - Export to GitHub after each change
-- Add a link to your Glitch project in your digital writing folio
+- For your final assessment, add a link to your Glitch project in your digital writing folio
 
 #### Remix N+7
 
@@ -234,7 +233,7 @@ Vary this technique (e.g. N+9).
 - Change the article text
 - Change the difference in number of nouns
 - Export to GitHub after each change
-- Add a link to your Glitch project in your digital writing folio
+- For your final assessment, add a link to your Glitch project in your digital writing folio
 
 ### Taroko Gorge(s)
 
