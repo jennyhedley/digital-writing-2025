@@ -17,6 +17,11 @@
 - [The Coding Train YouTube channel](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 - Express Media occasionally runs free [Digital Storytelling workshops](https://www.expressmedia.org.au/programs) for young writers (<25)
 
+
+## Free library of animations whose code you can integrate in your website
+
+- [P5.js library](https://p5js.org/libraries/)
+
 ## Create a Simple Website (Free)
 
 - Download [GitHub Desktop](https://desktop.github.com/)
