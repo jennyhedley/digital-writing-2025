@@ -18,10 +18,11 @@
 - Express Media occasionally runs free [Digital Storytelling workshops](https://www.expressmedia.org.au/programs) for young writers (<25)
 
 
-## Free library of animations whose code you can integrate in your website
+## Free P5.js library of animations whose code you can integrate in your website
 
 - [P5.js library](https://p5js.org/libraries/)
 - [Random poetry animation example](https://p5js.org/examples/listing-data-with-arrays-random-poetry/)
+- [Animated text example](https://editor.p5js.org/radium.scientist/sketches/H6FNGhtU5)
 
 ## Create a Simple Website (Free)
 
