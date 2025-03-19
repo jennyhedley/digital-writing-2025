@@ -169,11 +169,11 @@ Now that we have completed the technical HTML/CSS/JS portion of our learning, re
 
 Next Monday we will begin to look at Twine, a popular platform for creating branching, choose-your-own-adventure style literature. In advance of this, think about what story you would like to tell, that could make use of Twine's branching mode of storytelling. You may already have an unpublished work-in-progress on your hard drive, or maybe you will be inspired to create something new.
  
-# Wednesday 19th March (for use in class)
+# Wednesday 19th March (for use in class and reading after class)
 
 ## Defining Electronic Literature
 
-Edit the `exercises.md` page in your digital writing folio and add the following questions with your answers to the questions:
+Edit the `readings.md` page in your digital writing folio and add the following questions below. Answer these questions with reference to Week 1 & 2 readings (you can include anything from week 3 if you wish but W1&2 are probably most relevant). This passage should be 500 - 750 words. 
 
 - What elements of the works ("Taroko Gorge", "The Gathering Cloud", "First Draft of the Revolution", and "Shade") do you read?
 - How are those elements meaningful?
@@ -182,6 +182,12 @@ Edit the `exercises.md` page in your digital writing folio and add the following
 - What are the qualities of the works we might consider as qualities of electronic literature?
 
 ## Algorithm and Constraint
+
+## Questions: 
+- What is an algorithm? What is a constraint? 
+- Can you think of ways you might already be using thesein your writing? (e.g., tools, techniques or processes that constrain and sytematise the way you write)?
+- Why were the Oupilo writers so interested in the intersection of maths and literature?
+- What are the implcations for authorship? 
 
 ### Pen and Paper
 
