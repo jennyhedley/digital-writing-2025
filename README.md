@@ -74,7 +74,8 @@ Familiarise yourself with the following student resources as well as the Student
 - [The Electronic Literature Collections](https://collection.eliterature.org/)
 - [Woollahra Digital Literary Award](https://www.woollahra.nsw.gov.au/Library/Digital-literary-award)
   
-### Reading
+### Reading 
+*Requirement for final folio - 350-500 words on the below. 
 
 Read a few works from each volume of the [Electronic Literature Collection](https://collection.eliterature.org/):
 
@@ -111,9 +112,14 @@ On the example digital writing folio click on the "README.md". You should see a 
 
 Edit the `exercises.md` page you just created in your digital writing folio and add the following questions with your answers to the questions, you answered earlier.
 
-## Write a Bio Note
+## Write a Bio Note 
 
-Write a 100-word biographical note. Use the questions you answered above as starting points. Add the biographical note to the `README.md` of your GitHub digital writing folio repository.
+Write a 100-word biographical note. Use the questions you answered above as starting points. 
+- What types of writing do you do (e.g. fiction, nonfiction, poetry)?
+- What tools (or techniques) do you use to write?
+- Why do you use these tools (or techniques)?
+- How do these tools shape the way you write (e.g., constrain the way you write or facilitate your writing)?
+Add the biographical note to the `README.md` of your GitHub digital writing folio repository.
 
 ## Intro to the Coding Playground
 
@@ -154,7 +160,7 @@ If you are absent from class, be sure to complete the following exercises that w
 
 Once you have finished these exercises, be sure to click TOOLS -> IMPORT/EXPORT -> EXPORT TO GITHUB then put in your username/repositoryname to push your changes to your GitHub repository. Then, once in GitHub, view that repository and follow the green buttons: COMPARE & PULL REQUEST, CREATE PULL REQUEST, MERGE PULL REQUEST, CONFIRM MERGE.
 
-Next we will publish our code on [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site). You can follow the instructions in the link or follow along in class.
+Next we will publish our code on [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site). You can follow the instructions in the link or follow along in class. *Jenny will clarfify this in class Monday Week 4 there was a bug in the process.
 
 Finally, let's reflect on our remixed versions of Nick Monfort's poems. Edit the edit `exercises.md` page in your GitHub digital writing folio and add the following questions with your answers to the questions:
 
@@ -187,7 +193,7 @@ Edit the `readings.md` page in your digital writing folio and add the following 
 - What is an algorithm? What is a constraint? 
 - Can you think of ways you might already be using thesein your writing? (e.g., tools, techniques or processes that constrain and sytematise the way you write)?
 - Why were the Oupilo writers so interested in the intersection of maths and literature?
-- What are the implcations for authorship? 
+- How does algorthmic writing make us think differently about authorship? 
 
 ### Pen and Paper
 
@@ -232,7 +238,8 @@ Vary this technique (e.g. N+9).
 - Export to GitHub after each change
 - For your final assessment, add a link to your Glitch project in your digital writing folio
 
-#### Remix N+7
+#### Remix N+7 
+<ins>*Optional exercise as we didn't get through it in class.</ins>
 
 - Select "Remix on Glitch" on ["N+7"](https://n-plus-7.glitch.me)
 - Create a repository in GitHub for the remix
@@ -242,6 +249,7 @@ Vary this technique (e.g. N+9).
 - For your final assessment, add a link to your Glitch project in your digital writing folio
 
 ### Taroko Gorge(s)
+<ins>*Optional exercise as we didn't get through it in class.</ins>
 
 Select a remixed [Taroko Gorge](https://nickm.com/taroko_gorge/) and edit the `exercises.md` page in your digital writing folio and add the following questions with your answers to the questions:
 
