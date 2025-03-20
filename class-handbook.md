@@ -44,7 +44,7 @@ There will also be works of electronic literature to read and present back on in
 
 3-5 minute presentation and discussion
 
-**Due Week 4 in class on Wednesday 26th March**
+**Due Week 5 in class on Monday 31st March**
 
 Prepare a case study of a work of electronic literature. How does it work? What does it do? How does the reader interact with the piece? What kinds of questions does it raise for you? You should include a detailed analysis of form, to offer your lab group some context, and share with us what you have learnt that might relate to your own practice or potential output.
 
@@ -84,6 +84,6 @@ You will be given a range of exercises throughout the semester which will be opp
 
 This is a great place to demonstrate the breadth of your engagement - what have you tried and tested and failed at, when working in this medium?
 
-As well as documenting your lab work, the folio should include professional materials discussed throughout the semester. For the digital writing studio, that includes (but doesn't have to be limited to - it's up to you) a link to your GitHub account, an artist's statement and a personal webpage or artist CV.
+As well as documenting your lab work, the folio should include professional materials discussed throughout the semester. For the digital writing studio, that includes (but doesn't have to be limited to - it's up to you) a link to your GitHub account, an artist's statement and a personal webpage or artist CV. In the readme file of your coding playground, be sure to include the URL of the Glitch.com website that you worked on editing in the first three weeks of class.
 
 The folio must include a polished work of electronic literature that you have prepared this semester. This is a complete work, not a prototype, with ideas that have been introduced, developed and resolved. The length of the work will vary depending on the kind of work that you develop so the final length should be proposed in Week 8 and agreed on by your lab leader.
