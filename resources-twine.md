@@ -1,4 +1,8 @@
-#Twine resources
+# Twine resources
+
+- [Twine basics](https://twinery.org/reference/en/getting-started/basic-concepts.html)
+- [Twine cookbook](https://twinery.org/cookbook/)
+- [Harlowe manual](https://twine2.neocities.org/)
 
 ## Prerequisites
  
