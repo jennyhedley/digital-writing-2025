@@ -78,6 +78,8 @@ Your Twine story should now be published. Every time you make a change, save ove
 5. If you want the original sentence "I dream of cats" to change to "I dream of cats and horses" you would add after the original sentence `(click-append: "cats") [ and horses]`
 6. Notice how we put a space before the words "and horses" so it doesn't come out as "catsand horses"
 7. `click-prepend` is another option you can play with
+8. If you would like a line of text to appear after a specified transition delay, you can specify how long til you want the transition to take place AND the type of transition by using a plus sign inbetween - options include `fade-down`, `flicker` and others - then you put the affected text in square brackets:
+`(t8n-delay: 5s) + (t8n: "fade-down") [your words go here]`
 
 ### Add an Image to a Passage
 
