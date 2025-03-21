@@ -69,6 +69,16 @@ Your Twine story should now be published. Every time you make a change, save ove
 
 ## Extend the Twine Story
 
+### Trigger text to change on click
+
+1. Let's start with using the sample text "I dream of cats"
+2. If you want to change it to "I dream of horses" you would follow the sentence with `(click-replace: "cats") [horses]`
+3. Then if you want the reader to click again and replace "horses" with "turtles" you will add `(click-replace: "horses") [turtles]`
+4. Your code would then read `I dream of cats. (click-replace: "cats") [horses] (click-replace: "horses") [turtles]`
+5. If you want the original sentence "I dream of cats" to change to "I dream of cats and horses" you would add after the original sentence `(click-append: "cats") [ and horses]`
+6. Notice how we put a space before the words "and horses" so it doesn't come out as "catsand horses"
+7. `click-prepend` is another option you can play with
+
 ### Add an Image to a Passage
 
 1. Create a `images` folder/directory in the same folder/directory as the `index.html`.
@@ -129,8 +139,7 @@ tw-link:focus, tw-link:hover, tw-link:active, tw-link.visited:hover {
    <audio src="./audio/example.mp3" autoplay loop></audio>
    ```
 
-
-## Images in Twine
+## Image properties in Twine
 
 ### Scaling Images
 
