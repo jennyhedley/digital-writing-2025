@@ -93,8 +93,8 @@ After you specify the length of the transition and type of transition you put th
 
 ### Add an Image to a Passage
 
-1. Create a `images` folder/directory in the same folder/directory as the `index.html`.
-2. Add the image for your Twine story to that folder/directory.
+1. Create a folder titled `images` in the same folder as the `index.html` file.
+2. Add the image for your Twine story to that folder.
 3. In your Twine story add an image element with a relative reference to your image file. So if your image is called `example.jpg` add the following image element:
    ```html
    <img class="story-image" src="./images/example.jpg" alt="an example" />
