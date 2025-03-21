@@ -100,7 +100,9 @@ After you specify the length of the transition and type of transition you put th
    <img class="story-image" src="./images/example.jpg" alt="an example" />
    ```
 
-### Change the Story Styles
+### Change the Story Stylesheet 
+
+This process is similar to editing CSS.
 
 1. In the top menu of Twine click "Story" to reveal the menu options for your story
 2. Select "Stylesheet"
@@ -129,6 +131,13 @@ tw-link:focus, tw-link:hover, tw-link:active, tw-link.visited:hover {
   color: #FFF;
   text-decoration: none;
 }
+```
+#### Add padding to the passages in the stylesheet to address the issue of always having to scroll down for more text
+
+Add this to the Stylesheet:
+
+```tw-passage {
+  padding-bottom: 200px;}
 ```
 
 ### Adding a Linked Image
