@@ -111,7 +111,7 @@ tw-link:focus, tw-link:hover, tw-link:active, tw-link.visited:hover {
 
 ### Adding a Linked Image
 
-1. [Add an image to the passage as shown in the week 5 exercise](week5.md#add-an-image-to-a-passage)
+1. [Add an image to the passage as shown in the earlier exercise](resources-twine.md#add-an-image-to-a-passage)
    ```html
    <img class="story-image" src="./images/example.jpg" alt="an example" />
    ```
