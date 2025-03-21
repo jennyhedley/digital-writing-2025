@@ -37,7 +37,7 @@ In Twine you will need to create a story, add a passage and save the commit in G
 2. An "Untitled Passage" will be present. Double-click on the passage.
 3. Change the title from "Untitled Passage" to another name and edit the passage content. Close the passage.
 4. Select "Build" from the menu at the top to show the build options.
-5. Select "Publish to File" and navigate to the repository that you created. There should only be a "README.md" in the directory. Save your file as `index.html` (this is very important as when the story is published on Netlify it will make it easier to navigate to).
+5. Select "Publish to File" and navigate to the repository that you created. There should only be a "README.md" in the directory. Save your file as `index.html` (this is very important as when the story is published on Vercel or Netlify it will make it easier to navigate to).
 6. Go to GitHub Desktop and your repository should show changes. Add the comment "Add first passage" where "Summary (required)" is shown and click "Commit to main".
 
 ### Add Another Twine Passage
