@@ -136,7 +136,8 @@ tw-link:focus, tw-link:hover, tw-link:active, tw-link.visited:hover {
 
 Add this to the Stylesheet:
 
-```tw-passage {
+```css
+tw-passage {
   padding-bottom: 200px;}
 ```
 
