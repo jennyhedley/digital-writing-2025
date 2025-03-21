@@ -111,7 +111,7 @@ tw-link:focus, tw-link:hover, tw-link:active, tw-link.visited:hover {
 
 ### Adding a Linked Image
 
-1. [Add an image to the passage as shown in the earlier exercise](resources-twine.md#add-an-image-to-a-passage)
+1. [Add an image to the passage as shown in the earlier Add an Image to a Passage exercise](resources-twine.md#add-an-image-to-a-passage)
    ```html
    <img class="story-image" src="./images/example.jpg" alt="an example" />
    ```
@@ -235,7 +235,7 @@ If you want the image to appear on the left and the text on the right, then swap
 
 To set per passage background images in Twine we can use tags on the passage and then use these tags to set the background image where a passage is tagged.
 
-1. Add the intended background image to the images folder like in the [add an image to a Twine passage exercise](week6.md#add-an-image-to-a-passage)
+1. Add the intended background image to the images folder like in the [earlier Add an Image to a Passage exercise](resources-twine.md#add-an-image-to-a-passage)
 2. Select the passage for the background image
 3. Below the passage name select the "+ Tag" button and add a tag called "example-background" (the tag can be called anything so long as there are no spaces)
 4. Open "Story"->"Stylesheet" from the menu
