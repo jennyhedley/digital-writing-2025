@@ -99,6 +99,7 @@ After you specify the length of the transition and type of transition you put th
    ```html
    <img class="story-image" src="./images/example.jpg" alt="an example" />
    ```
+4. You'll notice that even when you save your changes and push them to GitHub, there is some lag time in being able to properly view the image. You can get an instant preview when you are in GitHub Desktop by clicking `Open in Visual Studio Code`. From there, right click on the `index.html` file and click `Open with Live Server` and you will get an accurate preview of your website in your web browser.
 
 ### Change the Story Stylesheet 
 
@@ -106,9 +107,9 @@ This process is similar to editing CSS.
 
 1. In the top menu of Twine click "Story" to reveal the menu options for your story
 2. Select "Stylesheet"
-3. Add styles for the story, links and change the font
+3. Add styles for the story including font and background colour, style images and links, and add padding to address the issue of always having to scroll down to read the text
 
-Example styles:
+Paste this code into the Stylesheet to start with:
 
 ```css
 @import url('https://fonts.googleapis.com/css2?family=Homemade+Apple&display=swap');
@@ -131,15 +132,10 @@ tw-link:focus, tw-link:hover, tw-link:active, tw-link.visited:hover {
   color: #FFF;
   text-decoration: none;
 }
-```
-#### Add padding to the passages in the stylesheet to address the issue of always having to scroll down for more text
-
-Add this to the Stylesheet:
-
-```css
 tw-passage {
   padding-bottom: 200px;}
 ```
+4. Now import fonts of your choice from [Google fonts](https://fonts.google.com/) and change the `font-family` property
 
 ### Adding a Linked Image
 
@@ -278,7 +274,6 @@ To set per passage background images in Twine we can use tags on the passage and
      background-repeat: no-repeat;  /* do not repeat the background image */
    }
    ```
-
 
 ## Image Maps
 
