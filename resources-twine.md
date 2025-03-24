@@ -26,8 +26,8 @@ Make sure you have set up accounts on the following sites.
 
 To save a history of your changes to your story and to allow you to easily publish it online you will need to set up a repository.
 
-1. Create a local folder/directory for all your projects on your computer. Every time you start a new repository you will want to create it in this folder. Call it anything you like but easy to find like `digital-writing-projects`.
-2. Go to GitHub Desktop and create a new repository. Give it the name `digital-writing-twine` and for the "Local Path" select the folder you created in the previous step. Select the "Initialize this repository with a README" checkbox and click "Create Repository".
+1. Create a local folder/directory for all your projects on your computer. Every time you start a new repository you will want to create it in this folder. Since you will use this folder a lot over the semester, you will ideally locate it on your computer desktop. Call it anything you like but easy to find like `digital-writing-projects`. Make sure there are no spaces in the folder name and use lowercase.
+2. Go to GitHub Desktop and create a new repository. Give it the name `digital-writing-twine` (no spaces) and for the "Local Path" select the `digital-writing-projects` folder you created on your desktop in the previous step. Select the "Initialize this repository with a README" checkbox and click "Create Repository".
 
 ### Create a Twine Story
 
@@ -57,7 +57,7 @@ Publish your repository to GitHub.
 1. Go to GitHub Desktop and in the top row select "Publish repository".
 2. Uncheck "Keep this code private" (this should be public so that it can be part of your folio).
 3. Click "Publish Repository".
-4. Go to GitHub in your web browser and confirm that the repository is there.
+4. Go to GitHub in your web browser and confirm that the repository is there, including an `index.html` file.
 
 ### Deploy Via GitHub Pages
 
@@ -99,7 +99,7 @@ After you specify the length of the transition and type of transition you put th
    ```html
    <img class="story-image" src="./images/example.jpg" alt="an example" />
    ```
-4. You'll notice that even when you save your changes and push them to GitHub, there is some lag time in being able to properly view the image. You can get an instant preview when you are in GitHub Desktop by clicking `Open in Visual Studio Code`. From there, right click on the `index.html` file and click `Open with Live Server` and you will get an accurate preview of your website in your web browser.
+4. You'll notice that even when you save your changes and push them to GitHub, there is some lag time in being able to properly view the image. You can get an instant preview when you are in GitHub Desktop by clicking `Open in Visual Studio Code`. If you don't see this option, then in your GitHub Desktop settings, under "Integrations", make sure your External Editor is set to Visual Studio Code. Once you open VS Code, right click on the `index.html` file and click `Open with Live Server` and you will get an accurate preview of your website in your web browser. You can also click "Go Live" at the bottom of the screen. If you are having an issue with getting this step to work, make sure that in Visual Studio Code you have installed the "GitHub Copilot" and "Live Server" extensions
 
 ### Change the Story Stylesheet 
 
