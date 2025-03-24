@@ -6,12 +6,12 @@
 
 ## Prerequisites
  
-Install GitHub Desktop, open it and connect it to your GitHub account. Ideally use Twine locally so you don’t lose any of your work, but you can also use the online version.
+Install GitHub Desktop, open it and connect it to your GitHub account. Ideally use Twine locally so you don’t lose any of your work.
 
 ### Install
 
 - [GitHub Desktop](https://desktop.github.com/)
-- [Visual Studio Code](https://code.visualstudio.com/)
+- [Visual Studio Code](https://code.visualstudio.com/) - please also install the "GitHub Copilot" extension and the "Live Server" extension
 - [Twine for Desktop](https://twinery.org/)
 
 ### Accounts
