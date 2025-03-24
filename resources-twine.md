@@ -12,7 +12,7 @@ Install GitHub Desktop, open it and connect it to your GitHub account. Ideally u
 
 - [GitHub Desktop](https://desktop.github.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
-- [Twine](https://twinery.org/)
+- [Twine for Desktop](https://twinery.org/)
 
 ### Accounts
 
