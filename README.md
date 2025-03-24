@@ -261,7 +261,7 @@ Select a remixed [Taroko Gorge](https://nickm.com/taroko_gorge/) and edit the `e
 
 ## Monday 24th March
 
-Please note that your first assessment has a new due date. Presentations will take place during class next Monday the 31st, however ####you are expected to upload your slide presentation onto Canvas by this Friday 11.59pm####. If you require an extension, you must apply for an extension through the Canvas portal.
+Please note that your first assessment has a new due date. Presentations will take place during class next Monday the 31st, however **you are expected to upload your slide presentation onto Canvas by this Friday 11.59pm**. If you require an extension, you must apply for an extension through the Canvas portal.
 
 Last week when we deployed our coding playgrounds using GitHub pages we ran into errors. Jenny has thoroughly investigated this and the issue is related to certain JavaScript functionality around "event listeners", which we use frequently in digital poetics but which in real world (aka capitalism and the vectors of communication run by tech oligarchs) carry the potential for security risks. Our poems, however, pose no security risks to us, and so the way to get around this will be to create an account with [Vercel](https://vercel.com/) using your GitHub credentials. Other options for free website deployment include [Render](https://render.com/) and [Netlify](https://netlify.com/). Jenny will demonstrate in class how to then deploy your coding playground website through Vercel. Knowing how to do this will make life easy later, when it comes time to publish our Twine stories and websites.
 
