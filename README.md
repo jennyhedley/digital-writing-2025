@@ -279,7 +279,6 @@ Today we will focus on learning Twine, a user-friendly platform for writing inte
 - [An Open Highway on Your Back](https://scottlimbrick.itch.io/an-open-highway-on-your-back)
 - [Real-Time Cancellation Adventure](https://www.liminalmag.com/taste/real-time-cancellation-adventure) | [full-screen version](https://cancellation-adventure.netlify.app/) 
 - [Housing Simulator](https://thesuburbanreview.com/2024/new-media/housing-simulator-2023-zenobia-frost/) | [full-screen version](https://vocal-choux-c5af6a.netlify.app/)
-![Uploading image.png…]()
 
 
 Please refer to our class [Twine resources](/resources-twine.md) throughout the semester as we continue to learn new Twine functionality bit by bit. You can also refer to Twine's official [basic concepts documentation](https://twinery.org/reference/en/getting-started/basic-concepts.html).
