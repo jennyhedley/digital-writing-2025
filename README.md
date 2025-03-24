@@ -15,6 +15,7 @@ Jenny and Lucinda will have an open drop in Teams video meeting each Monday from
 
 - [Angelo](https://github.com/AngeloKoulouris7)
 - [Angus](https://github.com/AngusK-rmit)
+- [Ben](https://github.com/BenYs3992649)
 - [Charlotte](https://github.com/charlotte-B4)
 - [Emily](https://github.com/emilyvandenbroeck)
 - [Farida](https://github.com/faridashams)
