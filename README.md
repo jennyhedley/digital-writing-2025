@@ -9,7 +9,7 @@ RMIT University 2025 Digital Writing Lab notes and exercises.
 
 ## Reminder - Drop-in Sessions
 
-Jenny and Lucinda will have an open drop in Teams video meeting each Monday from 12-1pm for consultation outside class via [this link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGJkZTA3ZGEtODRjZS00ZmY4LWFmZDQtNGFhMDU5NWFmNTE5%40thread.v2/0?context=%7b%22Tid%22%3a%22d1323671-cdbe-4417-b4d4-bdb24b51316b%22%2c%22Oid%22%3a%221d10c7bf-efc3-4712-b85f-2b383cf17eea%22%7d).
+Jenny and Lucinda will have an open drop in Teams video meeting each Monday from 12-1pm for consultation outside class via [this link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGJkZTA3ZGEtODRjZS00ZmY4LWFmZDQtNGFhMDU5NWFmNTE5%40thread.v2/0?context=%7b%22Tid%22%3a%22d1323671-cdbe-4417-b4d4-bdb24b51316b%22%2c%22Oid%22%3a%221d10c7bf-efc3-4712-b85f-2b383cf17eea%22%7d)).
 
 ## Class GitHub Accounts
 
