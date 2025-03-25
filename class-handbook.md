@@ -18,7 +18,7 @@ This studio is for those who wish to experiment with their writing practice and 
 
 Please feel free to email us about Equitable Learning Plans, any circumstances that require extensions or anything that’s getting in the way of your studies. If you have technical issues there will be time for trouble shooting in class - please be mindful that your issue is likely to be the same issue for others so sharing it in class time is the best thing for everyone. Please use the Github and online resources as well as your peers to find answers to your questions.
  
-Jenny and Lucinda will have an open drop in Teams video meeting each Monday from 12-1pm for consultation outside class via [this link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGJkZTA3ZGEtODRjZS00ZmY4LWFmZDQtNGFhMDU5NWFmNTE5%40thread.v2/0?context=%7b%22Tid%22%3a%22d1323671-cdbe-4417-b4d4-bdb24b51316b%22%2c%22Oid%22%3a%221d10c7bf-efc3-4712-b85f-2b383cf17eea%22%7d).
+Jenny and Lucinda will have an open drop in Teams video meeting each Wednesday from 5.15-6.15pm for consultation outside class via [this link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGJkZTA3ZGEtODRjZS00ZmY4LWFmZDQtNGFhMDU5NWFmNTE5%40thread.v2/0?context=%7b%22Tid%22%3a%22d1323671-cdbe-4417-b4d4-bdb24b51316b%22%2c%22Oid%22%3a%221d10c7bf-efc3-4712-b85f-2b383cf17eea%22%7d).
 
 ## Teaching schedule for 2025
 
