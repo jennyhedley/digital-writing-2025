@@ -287,3 +287,51 @@ Please refer to our class [Twine resources](/resources-twine.md) throughout the 
 If you are missing the Monday class, you will need to follow the instructions in the class [Twine resources](/resources-twine.md) up to the section on [changing the story stylesheet](/resources-twine.md#change-the-story-stylesheet). We will continue learning Twine functionality on Monday 7th April - with a focus on background images/scaling images/adding audio - and Monday 14th when we will learn how to insert image maps into Twine before we move onto Bitsy games.
 
 The following peer-reviewed article is not at all required reading, but if you choose to use Twine for your final project, you may be insterested in reading about how Mia Francesca-Jones used [Twine as a tool to expand life writing practice about place and space](https://textjournal.scholasticahq.com/article/57762).
+
+## Wednesday 26 March 26 ##
+
+Tips for Ass 1 Case Study Presentation 
+
+### Assessment Criteria - Content: (40%) ###
+
+**Assignment Instruction**: Prepare a case study of a work of electronic literature. How does it work? What does it do? How does the reader interact with the piece? What kinds of questions does it raise for you?  
+
+Tip: Lead with interest and curiosity. It’s ok to have questions about E-Lit theory and practice at this early stage it’s complex! Don’t feel you need to know it all.
+
+**Assignment Instruction**: You should include an analysis of form, to offer your lab group some context.
+
+Tip: This is not a 3000 word essay and so you won’t be able to go into enormous detail in your analysis. In fact I have removed the word 'detailed' from this instruction. Make sure you know the case study very well (in detail) but choose only the most relevant points in your analysis. You don’t have time to outline everything there is to say about it. 
+
+**Assignment Instruction**: Your presentation should briefly address ‘What is conveyed’ by the digital work and tell us something about the artist and where the artist sits in terms of industry or material practice.
+
+Tip: Use specific terms from the field: remixed, kinetic, hypertextual essaying and poetry, interactive fiction, programmatic texts - the readings are full of great lists of the hybridity and diversity of form, use them to help you if you are not sure about the terminology. Locate it in the field: ‘Generational’ definers will be helpful here. This is where you should include some refrences to the Required Readings from Weeks 1-3. E-Lit is full of hybridity. These texts can not be clearly pinned down as belonging to one type. Is it on the spectrum of a game/story? E-Lit/Digital Art? what kind of hybridity does it present? (as relevant).
+This point from the Week 3 Reading by Memmott (2006 p.293) is useful to think about (you don’t need to provide a long reference like this I just thought I’d point it this out FYI)  
+
+- “These terms are liquid delimiters for creative cultural practice through applied technology. The context in which any given term is used provides the framework for its definition, however tentative or temporary. The terms are conveniences—(perhaps) for the sake of argument.”
+
+**Assignment Instruction**: You should then spend most of your time unpacking 'How does it happen?' whatever it is that this digital work does. Ask yourself: how a reader interacts with the work or whether they can; the relationship between imagery and text; how the text changes between readings; how movement acts in the work; the structure of the work; the technologies used; the relationship between space and time in the work (explicit or implicit); the relationship between the work and the browser. 
+
+Tip: You will need to understand the case study well enough to make relevant  choices here about the most important aspects that back up your understanding of the work and how it is informing your own practice.  
+
+**Assignment Instruction**: Share with us what you have learnt that might relate to your own practice or potential output.
+
+Tip: Remember to tell us about your own practice - how does this case study relate? This is a really important and one of the most interesting part of the assignment. Bring it back to your own practice.  
+
+**Assignment Instruction**: Please leave the class with 1 question at the end of the talk. The question should be open-ended and meant to make us think about our own practice, making or reading digital literature.
+
+Tip: There are so many interesting questions that E-Lit raises: what are the most relevant and pressing for the way you think about your own practice of making and reading? 
+
+### Assessment Criteria - Use of supporting materials (20%) ###
+**Assignment Instruction**: Support materials are essential - a clear Powerpoint presentation so we can follow along.
+
+Tip: Using presentation materials in a sophisticated way means making considered choices about what you say verbally, and what you show visually, and using the strengths of both mediums. Remember the cliché “a picture says a thousand words” – use visuals to show things that would take a lot of words to describe. Equally,  presentation slides should not be loaded with text. A few wordy slides is fine but don’t try to fit an essay onto a Powerpoint. Any presentation platform you can submit to canvas is fine. You don't have to use Powerpoint.
+
+### Assessment Criteria - Delivery: (20%) and Volume and Clarity of Expression (10%) ###
+
+Tip: lead with interest and curiosity. If you are interested and curious your audience is very likely to be also. 
+
+Tip: Speak at a moderate speed. A rule of thumb is 100 words a minute. 
+
+Tip: Prepare. Rehearse and time yourself.  
+
+Tip: make sure it runs to time: aim for 4 be done by 4.30. You will be timed and stopped at 5mins.
