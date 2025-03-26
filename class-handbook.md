@@ -44,7 +44,9 @@ There will also be works of electronic literature to read and present back on in
 
 3-5 minute presentation and discussion
 
-**Due Week 5 in class on Monday 31st March**
+### View the [additional instructions/tips for completing Assessment 1 here](https://github.com/jennyhedley/digital-writing-2025/blob/main/README.md#assessment-criteria---content-40)
+
+**Slides due Week 4 by 11.59pm on Friday 29th March | Presentation Due Week 5 in class on Monday 31st March**
 
 Prepare a case study of a work of electronic literature. How does it work? What does it do? How does the reader interact with the piece? What kinds of questions does it raise for you? You should include a detailed analysis of form, to offer your lab group some context, and share with us what you have learnt that might relate to your own practice or potential output.
 
