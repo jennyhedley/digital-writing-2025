@@ -353,11 +353,11 @@ Print Precursors:
 - BS Johnson, The Unfortunates (1969)
 - Choose Your Own Adventure (1979–1998)
 
-Electonic Precursors
-- Memex, Vannevar Bush, "As We May Think" 1945
+Technological Precursors (not neccessarily literary)
+- Memex, Vannevar Bush, ["As We May Think" 1945](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
 - Hypertext, Ted Nelson, 1965
-- Hypertext Editing System, 1967
-- FRESS (File and Retrieval Editing SyStem), 1968
+- [Hypertext Editing System 1967](https://dl.acm.org/doi/10.1145/800197.806036)
+- [FRESS (File and Retrieval Editing SyStem), 1968](https://youtu.be/wUTaNQWjNy8)
 - HyperCard, 1987
 - World Wide Web, 1989
 
@@ -370,14 +370,24 @@ This week's Required Reading (Aarseth 1997) unpacks some territory that speak di
 
 - What do you think of Aarseth's concept? explain how it offer an alternative to conventional ideas of narrative and the role of reader and writer?
 
+Regarding our discussion about new terms and concents for thinking beyond binaries: author/reader text/audience ficion/fact etc, and genres or 'silos': novel, poetry, essay, memoir, literature, art, game etc    
+- deleuze and the 'rhizome' from [Wikipedia](https://en.wikipedia.org/wiki/Rhizome_(philosophy)) I will an optional extended reading for anyone interesting in this idea
+- new media art [rhizome.org](https://rhizome.org)
+
   ### In Class
 
 - How could you plan hypertext fiction?
-- Begin to map any hypertextual story that you wish to develop
+- Discusion: online tools for mapping stories
+- [miro.com](miro.com) available to RMIT students log in with your student password. 
+- [scrivener](https://www.literatureandlatte.com/scrivener/overview?gad_source=1&gbraid=0AAAAABYPNyhuSKVFV_EYVKtXYztrYNeWk&gclid=Cj0KCQjwna6_BhCbARIsALId2Z2XTfatmm5zKm76D9jSH9rBvDwzH0CrcyRPTO2ObyDn2WwTpS2NlG0aAgsfEALw_wcB) is a popular tool for writers that has a cork board function
+- [padlet.com](https://padlet.com/)this is like an online post-it note board you should have a student login for this also  
 
 - ### Toward Assessment 2
-- Proposals discussion and reflections in folio
+- Proposals discussion and reflections in folio *Required Activity for Final Folio
+  
 - What is emerging for you in terms of your own piece toward Assessment 2 and 3
 - What platform and technology does it require?
 - Do you know already if you can make it?
-- What else do you need to learn in order to execute your vision for this piece? 
+- What else do you need to learn in order to execute your vision for this piece?
+- **map your thoughts any way you like - use miro, use a corkboard, a table in a word doc, ppowerpoint, post it notes, whatever. If you use a physical medium take photos and pop them in a sharefolder linked to your Github folio.**  
+
