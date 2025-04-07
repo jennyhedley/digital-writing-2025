@@ -297,9 +297,9 @@ To set per passage background images in Twine we can use tags on the passage and
 
 ### Linking the Image Map
 
-1. Download the latest [`harlowe-macro-api.zip` from Chapel's Unofficial Custom Macro Framework for Harlowe](https://github.com/ChapelR/harlowe-macro-api/releases).
-2. Open `macro.js` and copy the contents into your Twine story JavaScript (Story->JavaScript).
-3. To the bottom of the passage with your image map add:
+1. You can either copy the lines of code from our repository's [Harlowe script resourse file](/resources-twine-harlowe-script) or else download the latest [`harlowe-macro-api.zip` from Chapel's Unofficial Custom Macro Framework for Harlowe](https://github.com/ChapelR/harlowe-macro-api/releases) and copy the contents of the `macro.js` file.
+3. Paste the contents into your Twine story JavaScript (Story->JavaScript).
+4. To the bottom of the passage with your image map add:
    ```html
    <script>
     $('area').on('click', function(e){
