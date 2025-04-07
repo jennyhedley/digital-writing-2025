@@ -254,6 +254,12 @@ To use the grid layout to display an image to the right-hand side of the text:
      grid-column: 2;  /* sets which column the image appears in */
      grid-row: 1;
    }
+
+.story-image img {
+  max-width: 100%; /*constrain the image size*/
+  height: auto;
+  display: block;
+}
    ```
 
 If you want the image to appear on the left and the text on the right, then swap the values for `grid-column`.
