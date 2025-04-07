@@ -285,7 +285,7 @@ To set per passage background images in Twine we can use tags on the passage and
 ### Prerequisite
 
 1. Make sure you have your Twine set up with the passages already created or a list of passages. You will use the names of the passages when setting up your image map.
-2. Have an image ready for the image map.
+2. Have an image ready for the image map. Preferably you will resize the image in advance so that it is not too large in spatial dimensions or megabites.
 
 ### Creating an Image Map
 
