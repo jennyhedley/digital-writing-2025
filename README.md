@@ -391,3 +391,12 @@ Regarding our discussion about new terms and concents for thinking beyond binari
 - What else do you need to learn in order to execute your vision for this piece?
 - **map your thoughts any way you like - use miro, use a corkboard, a table in a word doc, ppowerpoint, post it notes, whatever. If you use a physical medium take photos and pop them in a sharefolder linked to your Github folio.**  
 
+## Week 6
+
+## Monday class - 7th April
+
+Today we will begin class with any remaining Assessment 1 Case Study Presesentations.
+
+Please be prepared to discuss how you are tracking with the class and the coursework so far. Think about what tools you need to do your main project for the class. 
+
+Today we will continue our work with Twine (especially looking at images and audio), however, we can slow down to address any tech challenges that you are facing so far. Please make sure to ask questions now, so that you have ample time to prepare for the second Assessment.
