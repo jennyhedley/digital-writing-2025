@@ -70,8 +70,11 @@ Afterwards, please upload your Powerpoint to Canvas.
 
 **Due Week 8 in class on Monday 28th April plus upload slides to Canvas by Friday 2nd May 11.59pm**
 
-Present your creative work-in-progress to an audience of your peers who will provide professional feedback on how to develop your work. This must include an early prototype, a proposal for the final length of the work and at least 4 pages of design or text, presented as a slideshow e.g. Powerpoint, narrated and contextualised by you.
-
+Present your creative work-in-progress to an audience of your peers who will provide professional feedback on how to develop your work. 
+**This must include an early prototype** which means at least 4 pages of design and text prefereably in published mode so we can see it (not just the back-end). Also include a map/plan for the final length/scope of the work in terms that make sense for the kind of work you are doing. This could mean pages/screens/steps/branches etc. 
+**Iteration and troubleshooting**:You should reflect on your progress so far, and how these early stages have changed the way you are thinking about the final work. It is totally fine to have run into trouble with your prototype work (it would be unusualy not to). If this has happened, show an example of what you are trying to do and how it has not worked out. Tell us your thinking on why this has happened and talk to your attempts to fix it. Is the problem just something you have missed along the way over the past few weeks or is it something you are trying to do that is just way beyond the scope of this project? Either might be just as likely.  
+Your proposal presentation should be presented as a slideshow e.g. Powerpoint, narrated and contextualised by you.
+Your presentation should be 7 minutes long. 
 Afterwards, please upload your Powerpoint to Canvas.
 
 ### Task 3: Folio including a developed creative work (50%)
