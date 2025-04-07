@@ -403,10 +403,14 @@ Today we will continue our work with Twine - beginning with [inserting audio](ht
 
 If there is time today, we will cover [image maps in Twine](https://github.com/jennyhedley/digital-writing-2025/blob/main/resources-twine.md#image-maps), however, we can slow down to address any tech challenges that people are facing so far. If you feel uncertain about anything, chances are that other people are having the same difficulty. Please make sure to ask questions now, so that you have ample time to prepare for the second Assessment.
 
-If you miss class today, please be sure to follow along learning about audio, image styling and image maps using the [Twine resources](https://github.com/jennyhedley/digital-writing-2025/blob/main/resources-twine.md). **You will be expected to make a minimum effort with image styling, audio and image maps in Twine for your folio, even if you do not choose Twine as the platform for your project.** If you attend class, you will complete this minimum effort during class. 
+If you miss class today, please be sure to follow along learning about audio, image styling and image maps using the [Twine resources](https://github.com/jennyhedley/digital-writing-2025/blob/main/resources-twine.md). You can follow along with this [video recording](https://www.loom.com/embed/8ec5d97f6c1c4683adec6439049d33f2?sid=f0d64dfd-6e97-484c-9383-fd4b16670fdc) which walks you through the process step-by-setp. **You will be expected to make a minimum effort with image styling, audio and image maps in Twine for your folio, even if you do not choose Twine as the platform for your project.** 
 
 Once we have completed a test image map - basic is okay, no need to overdo it! - then if you have attended all the classes so far and/or have otherwise kept up with the learning, the good news is that there is no more **required** new technology for you to learn. 
 
 **Next Monday the tech content around writing games using platforms such as Bitsy and Inform 7 is optional. If you do not include those in your portfolio, you will not be penalised.** 
 
 As we continue progressing towards Assessments 2 and 3, we will work with the tech tools that we have already been exposed to. There will be time during future classes, for example, for us to complete the author website portion of the folio requirement. 
+
+## Wednesday class - 9th April
+
+Please note that if you missed the Monday class or need further guidance on creating an image map, you can watch this new [video recording](https://www.loom.com/embed/8ec5d97f6c1c4683adec6439049d33f2?sid=f0d64dfd-6e97-484c-9383-fd4b16670fdc) as you follow the directions in the [Twine resources](https://github.com/jennyhedley/digital-writing-2025/blob/main/resources-twine.md). A special thank you to Angelo for demonstrating the image map functionality in class.
