@@ -284,8 +284,8 @@ To set per passage background images in Twine we can use tags on the passage and
 
 ### Prerequisite
 
-1. Make sure you have your Twine set up with the passages already created or a list of passages. You will use the names of the passages when setting up your image map.
-2. Have an image ready for the image map. Preferably you will resize the image in advance so that it is not too large in spatial dimensions or megabites.
+1. Make sure you have your Twine set up with the passages already created. This project should be saved to an `index.html` file within a designated `image-map` folder within your main `digital-writing-project` file. Keep the names of the passages simple as you will use them when setting up your image map. **IMPORTANT NOTE: When you commit your changes for the first time using GitHub Desktop, make sure to set up a new repository so that you do not overwrite your previous repository.** 
+2. Have an image ready for the image map, and place it in an `images` folder within your `image-map` folder. Preferably you will resize the image in advance so that it is not too large in spatial dimensions or megabites.
 
 ### Creating an Image Map
 
@@ -293,12 +293,12 @@ To set per passage background images in Twine we can use tags on the passage and
 2. Create an area on the map for each of the passages you want linked. For each area choose the shape you want (if it is irregular then you will want to select "Poly")
 3. For each area leave "Link" and "Target" blank and ensure that "Title" has the name of the passage you want linked.
 4. Select "Show Me The Code!" and copy the code shown and paste it into the passage with where you want your image.
-5. Update the `img` tag on the page and ensure it is pointing to your image.
+5. Update the `img` tag on the page and ensure it is pointing to your image by changing the `<img src>` to `<img src="./images/example.jpg" usemap="#image-map">`, replacing the word "example" with your image file name.
 
 ### Linking the Image Map
 
 1. You can either copy the lines of code from our repository's [Harlowe script resourse file](/resources-twine-harlowe-script) or else download the latest [`harlowe-macro-api.zip` from Chapel's Unofficial Custom Macro Framework for Harlowe](https://github.com/ChapelR/harlowe-macro-api/releases) and copy the contents of the `macro.js` file.
-3. Paste the contents into your Twine story JavaScript (Story->JavaScript).
+3. Paste the copied contents into your Twine story JavaScript (Story->JavaScript).
 4. To the bottom of the passage with your image map add:
    ```html
    <script>
@@ -336,6 +336,9 @@ To hide the targeted passage links - these are the links to the new story "rooms
 
 Please note that unlike in CSS, the opening `div style'"display:none;"` tag has no `>` at the end. It is still "closed" by the `</div>` tag that follows your targeted passage links.
 
+### Publishing your image map
+
+After you push your commits to GitHub using GitHub Desktop, navigate to your GitHub repository online and publish via GitHub pages.
 
 ## How do you show background videos in Twine?
 
