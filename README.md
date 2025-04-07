@@ -399,4 +399,14 @@ Today we will begin class with any remaining Assessment 1 Case Study Presesentat
 
 Please be prepared to discuss how you are tracking with the class and the coursework so far. Think about what tools you need to do your main project for the class. 
 
-Today we will continue our work with Twine (especially looking at images and audio), however, we can slow down to address any tech challenges that you are facing so far. Please make sure to ask questions now, so that you have ample time to prepare for the second Assessment.
+Today we will continue our work with Twine - beginning with [inserting audio](https://github.com/jennyhedley/digital-writing-2025/blob/main/resources-twine.md#adding-audio) and then continuing on with styling images. 
+
+If there is time today, we will cover [image maps in Twine](https://github.com/jennyhedley/digital-writing-2025/blob/main/resources-twine.md#image-maps), however, we can slow down to address any tech challenges that people are facing so far. If you feel uncertain about anything, chances are that other people are having the same difficulty. Please make sure to ask questions now, so that you have ample time to prepare for the second Assessment.
+
+If you miss class today, please be sure to follow along learning about audio, image styling and image maps using the [Twine resources](https://github.com/jennyhedley/digital-writing-2025/blob/main/resources-twine.md). **You will be expected to make a minimum effort with image styling, audio and image maps in Twine for your folio, even if you do not choose Twine as the platform for your project.** If you attend class, you will complete this minimum effort during class. 
+
+Once we have completed a test image map - basic is okay, no need to overdo it! - then if you have attended all the classes so far and/or have otherwise kept up with the learning, the good news is that there is no more **required** new technology for you to learn. 
+
+**Next Monday the tech content around writing games using platforms such as Bitsy and Inform 7 is optional. If you do not include those in your portfolio, you will not be penalised.** 
+
+As we continue progressing towards Assessments 2 and 3, we will work with the tech tools that we have already been exposed to. There will be time during future classes, for example, for us to complete the author website portion of the folio requirement. 
