@@ -281,6 +281,7 @@ To set per passage background images in Twine we can use tags on the passage and
    ```
 
 ## Image Maps
+**Follow this [guided video instruction]((https://www.loom.com/embed/8ec5d97f6c1c4683adec6439049d33f2?sid=f0d64dfd-6e97-484c-9383-fd4b16670fdc) to assist you in completing a basic image map in Twine**
 
 ### Prerequisite
 
