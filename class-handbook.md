@@ -68,7 +68,7 @@ Afterwards, please upload your Powerpoint to Canvas.
 
 5-minute presentation plus materials e.g. draft creative work.
 
-**Due Week 8 in class on Monday 28th April**
+**Due Week 8 in class on Monday 28th April plus upload slides to Canvas by Friday 2nd May 11.59pm**
 
 Present your creative work-in-progress to an audience of your peers who will provide professional feedback on how to develop your work. This must include an early prototype, a proposal for the final length of the work and at least 4 pages of design or text, presented as a slideshow e.g. Powerpoint, narrated and contextualised by you.
 
