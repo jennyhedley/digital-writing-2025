@@ -347,7 +347,7 @@ Once you've added the video to your video directory, add the following to the pa
 
 ```html
 <video autoplay loop muted class="background-video">
-  <source src="video.mp4" type="video/mp4">
+  <source src="./video/example.mp4" type="video/mp4">
 </video>
 ```
 
@@ -367,6 +367,26 @@ tw-story[tags~="video"] {
   min-width: 100%; 
   min-height: 100%;
   z-index: -100; /* Place the video behind everything */
+}
+```
+### Angelo's alternate solution for videos 
+
+If you have tried the above solution and have found that after autoplay, you are seeing a white background that doesn't match your styling, please try the following solution which Angelo has helpfully researched for us. Here Angelo has set the background colour to black - you can adjust this to match your preferred background colour. Additionally, Angelo's code snippet styles the video element so that it automatically is centred and contained within the width of the screen. Finally, Angelo has changed the z-index to zero to prevent the video from disappearing into the background. 
+
+```css
+/* Style the background where the video will appear */
+tw-story[tags~="video"] {
+  background-color: black;
+}
+
+/* Style the video element */
+.background-video {
+  position: center;
+  right: 0;
+  bottom: 0;
+  min-width: auto; 
+  min-height: auto;
+  z-index: 0; /* Place the video in front of everything */
 }
 ```
 
