@@ -322,6 +322,20 @@ To set per passage background images in Twine we can use tags on the passage and
     $('map').imageMapResize();
    </script>
    ```
+### Hiding the passage links
+
+To hide the targeted passage links - these are the links to the new story "rooms" which are enclosed within two sets of square brackets - wrap your targeted passages within the following `div` tags:
+
+```
+<div style="display:none;"
+[[head]]
+[[middle]]
+[[legs]]>
+</div>
+```
+
+Please note that unlike in CSS, the opening `div style'"display:none;"` tag has no `>` at the end. It is still "closed" by the `</div>` tag that follows your targeted passage links.
+
 
 ## How do you show background videos in Twine?
 
