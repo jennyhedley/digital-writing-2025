@@ -334,8 +334,6 @@ To hide the targeted passage links - these are the links to the new story "rooms
 </div>
 ```
 
-Please note that unlike in CSS, the opening `div style'"display:none;"` tag has no `>` at the end. It is still "closed" by the `</div>` tag that follows your targeted passage links.
-
 ### Publishing your image map
 
 After you push your commits to GitHub using GitHub Desktop, navigate to your GitHub repository online and publish via GitHub pages.
