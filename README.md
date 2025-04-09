@@ -364,7 +364,7 @@ Technological Precursors (not neccessarily literary)
 Contemporary Publisher [Eastgate Systems](http://www.eastgate.com/catalog/Fiction.html)
   
 ### Reading 
-*Requirement for final folio - 350-500 words on the below (this can be done any time this week)
+**Requirement for final folio - 350-500 words on the below (this can be done any time this week)**
 
 This week's Required Reading (Aarseth 1997) unpacks some territory that speak directly to some of the great questions raised in your Case Study presnetations such as "in what sense can a hypertext be a narrative? Is hypertext a literary genre or a literary technique?" It introduces the important concept of "ergotics": "hypertext is not a reconfiguration of narrative but offers an alternative to it, as I try to demonstrate through the concept of ergodics." (p.95)
 
@@ -383,13 +383,13 @@ Regarding our discussion about new terms and concents for thinking beyond binari
 - [padlet.com](https://padlet.com/)this is like an online post-it note board you should have a student login for this also  
 
 - ### Toward Assessment 2
-- Proposals discussion and reflections in folio *Required Activity for Final Folio
+- Proposals discussion and reflections in folio **Required Activity for Final Folio**
   
 - What is emerging for you in terms of your own piece toward Assessment 2 and 3
 - What platform and technology does it require?
 - Do you know already if you can make it?
 - What else do you need to learn in order to execute your vision for this piece?
-- **map your thoughts any way you like - use miro, use a corkboard, a table in a word doc, ppowerpoint, post it notes, whatever. If you use a physical medium take photos and pop them in a sharefolder linked to your Github folio.**  
+- **map your thoughts any way you like - use miro, use a corkboard, a table in a word doc, ppowerpoint, post it notes, whatever. If you use a physical medium take photos and pop them in a sharefolder linked to your Github folio.** 
 
 ## Week 6
 
@@ -415,3 +415,17 @@ As we continue progressing towards Assessments 2 and 3, we will work with the te
 
 Please note that if you missed the Monday class or need further guidance on creating an image map, you can watch this new [video recording](https://www.loom.com/embed/8ec5d97f6c1c4683adec6439049d33f2?sid=f0d64dfd-6e97-484c-9383-fd4b16670fdc) as you follow the directions in the [Twine resources](https://github.com/jennyhedley/digital-writing-2025/blob/main/resources-twine.md). A special thank you to Angelo for demonstrating the image map functionality in class.
 
+
+**Toward Assessment 2 (and 3) activity and discussion** 
+1. See the slide deck on Canvas modules [Student Works 2024](https://rmit.instructure.com/courses/146513/pages/student-works-2024?module_item_id=7255750). These are three successful examples of developed digital works and they are all very different. 
+ 
+2. Critically reflect on these works by asking the same sort of questions as you asked of the case study Ass 1:
+- How does it work? What does it do? How does the reader interact with the piece? What is conveyed by the digital work?
+- How does the digital affordance work with the piece’s themes? Does its function deepen the meaning and interpretation of the themes for you as a reader? 
+- Think about: the relationship between imagery and text; how the text changes between readings; how movement acts in the work; the structure of the work; the technologies used.
+- How does this work make you reflect on your own ideas and what you might do for your own piece? **Requirement for final folio write 250 to 300 (minimum) words on this (can be done any time this week)** 
+
+3. See the slide deck on Canvas modules [Jenny's Final Project](https://rmit.instructure.com/courses/146513/pages/jennys-final-project-2021)
+- Read the contextual statements and consider how the form and function of each aspect of this piece feeds into the themes of the work.
+- See the map of Jenny's Twine story on Slide 8. How might you map your own emerging ideas? (If you have not already done the mapping exrcise from last week please catch up on this.)  
+ 
