@@ -81,7 +81,7 @@ Whereas Twine facilitates hypertext narratives where you progress through the st
 
    The Kitchen is a room. The Kitchen has the description "This is where we cook."
    ```
-8. Click "Go!" to test
+8. Click "Go!" to test - Tip: If you type `go west` at the position of the blinking cursor, the story will reveal The Kitchen
 9. Click "Release" to release
 10. Commit the change
 11. Push to GitHub
