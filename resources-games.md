@@ -2,7 +2,7 @@
 
 ## Bitsy
 
-Bitsy is a web-based games designer on itch.io by Adam Le Doux. Best for tiny adventures, short narrative games or vignettes, games appear in lo-res, 8-bit style, with only three colours permitted in each room’s colour scheme. 
+Bitsy is a web-based games designer on itch.io by Adam Le Doux. Best for tiny adventures, short narrative games or vignettes, games appear in lo-res, 8-bit style, with only three colours permitted in each room’s colour scheme - two background colours and another for avatars, items and sprites/NPCs. 
 
 ### Create a Bitsy Game
 
