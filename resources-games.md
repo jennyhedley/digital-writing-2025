@@ -28,7 +28,8 @@ Bitsy is a web-based games designer on itch.io by Adam Le Doux. Best for tiny ad
 
 - [Bitsy](https://ledoux.itch.io/bitsy)
 - [A Bitsy Tutorial](https://www.shimmerwitch.space/bitsyTutorial)
-- [YouTube Tutorial - More complex sprite interactions, using dialogs](https://www.youtube.com/watch?app=desktop&v=pbz1hWEJelc)
+- [Dan Cox's Bitsy tutorial](https://videlais.com/2018/04/06/bitsy-4-tutorial-videos/)
+- [YouTube tutorial - More complex sprite interactions, using dialogs](https://www.youtube.com/watch?app=desktop&v=pbz1hWEJelc)
 - [Bitsy Games Wiki](https://bitsy.fandom.com/wiki/Bitsy_Wiki)
 - [Bitsy hacks]( https://github.com/seleb/bitsy-hacks) – scripts to enable additional Bitsy functionality
 
