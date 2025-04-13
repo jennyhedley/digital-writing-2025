@@ -16,7 +16,7 @@ Bitsy is a web-based games designer on itch.io by Adam Le Doux. Best for tiny ad
 6. Commit the change
 7. Push to GitHub
 
-### Publish the Bitsy Game with GitHub Pages
+### Publish the Game with GitHub Pages
 
 1. Go to "Settings" on your repository for your work on GitHub.
 2. Click on "Pages" in the sidebar under the section "Code and automation".
