@@ -309,6 +309,26 @@ This point from the Week 3 Reading by Memmott (2006 p.293) is useful to think ab
 
 - “These terms are liquid delimiters for creative cultural practice through applied technology. The context in which any given term is used provides the framework for its definition, however tentative or temporary. The terms are conveniences—(perhaps) for the sake of argument.”
 
+- ## Week 7
+
+### Monday class – 14th April
+
+Today we will look at interactive fiction in games. You are not required to include games code from today in your folio. We understand that you have experimented with so much code already. 
+
+We will play through a number of Bitsy examples (which will be added to the repo later) and discuss our thoughts. 
+
+#### Class discussion
+
+-How does Bitsy's technical constraint of 8x8 pixel art and limited colour palettes affect narrative possibilities and expression? In particular, how have these been used to elicit emotional response to themes around memory and grief?
+-In what ways do spatial navigation and environmental storytelling function differently in Bitsy games compared to other e-lit forms? What does this ask of the reader/player?
+-How can we make use various game features (e.g., character interactions triggering text, having scenes “loop” differently with each subsequent play) to make a game “literary”, with a compelling emotional timbre?
+
+We will play with the online Bitsy Game Maker, drawing upon this new class [games resources page](https://github.com/jennyhedley/digital-writing-2025/blob/main/resources-games.md). 
+
+Since Assessment Two is due right after the upcoming break, think about whether there is any tech that you need to know to make your prototype for your presentation. We will have time in class today to troubleshoot any of the coding that we have covered so far. 
+![image](https://github.com/user-attachments/assets/2c32f7f8-827a-41aa-a3ea-c6aef1f95a3f)
+
+
 **Assignment Instruction**: You should then spend most of your time unpacking 'How does it happen?' whatever it is that this digital work does. Ask yourself: how a reader interacts with the work or whether they can; the relationship between imagery and text; how the text changes between readings; how movement acts in the work; the structure of the work; the technologies used; the relationship between space and time in the work (explicit or implicit); the relationship between the work and the browser. 
 
 Tip: You will need to understand the case study well enough to make relevant  choices here about the most important aspects that back up your understanding of the work and how it is informing your own practice.  
@@ -429,3 +449,20 @@ Please note that if you missed the Monday class or need further guidance on crea
 - Read the contextual statements and consider how the form and function of each aspect of this piece feeds into the themes of the work.
 - See the map of Jenny's Twine story on Slide 8. How might you map your own emerging ideas? (If you have not already done the mapping exrcise from last week please catch up on this.)  
  
+## Week 7
+
+### Monday class – 14th April
+
+Today we will look at interactive fiction in games. You are not required to include games code from today in your folio. We understand that you have experimented with so much code already. 
+
+We will play through a number of Bitsy examples (which will be added to the repo later) and reflect on the affordances of tiny games.
+
+#### Class discussion
+
+- How does Bitsy's technical constraint of 8x8 pixel art and limited colour palettes affect narrative possibilities and expression? In particular, how have these been used to elicit emotional response to themes around memory and grief?
+- In what ways do spatial navigation and environmental storytelling function differently in Bitsy games compared to other e-lit forms? What does this ask of the reader/player?
+- How can we make use various game features (e.g., character interactions triggering text, having scenes “loop” differently with each subsequent play) to make a game “literary”, with a compelling emotional timbre?
+
+We will play with the online Bitsy Game Maker, drawing upon our new [games resources page](https://github.com/jennyhedley/digital-writing-2025/blob/main/resources-games.md). 
+
+Since Assessment Two is due right after the upcoming break, think about whether there is any tech that you need to know to make your creative prototype for your presentation. We will have time in class today to troubleshoot any of the coding that we have covered so far. 
