@@ -465,4 +465,4 @@ We will play through a number of Bitsy examples (which will be added to the repo
 
 We will play with the online Bitsy Game Maker, drawing upon our new [games resources page](https://github.com/jennyhedley/digital-writing-2025/blob/main/resources-games.md). 
 
-Since [Assessment](https://github.com/jennyhedley/digital-writing-2025/blob/main/class-handbook.md#task-2-proposal-25) Two is coming up, think about whether there is any tech that you need to know to make your creative prototype for your presentation. We will have time in class today to troubleshoot any of the coding that we have covered so far. 
+Since [Assessment Two](https://github.com/jennyhedley/digital-writing-2025/blob/main/class-handbook.md#task-2-proposal-25) is coming up, think about whether there is any tech that you need to know to make your creative prototype for your presentation. We will have time in class today to troubleshoot any of the coding that we have covered so far. 
