@@ -85,6 +85,7 @@ Whereas Twine facilitates hypertext narratives where you progress through the st
 9. Click "Release" to release
 10. Commit the change
 11. Push to GitHub
+12. Follow the usual [steps to publish with GitHub pages](/resources-games.md#publish-the-game-with-github-pages)
 
 #### Adding a Cat to the Living Room
 
