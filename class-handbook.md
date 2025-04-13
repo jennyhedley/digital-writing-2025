@@ -77,7 +77,7 @@ Present your creative work-in-progress to an audience of your peers who will pro
 
 Your presentation should be presented as a slideshow e.g. Powerpoint, narrated and contextualised by you.
 
-Your presentation should be 7 minutes long. 
+Your presentation should be 7 minutes long including time for class discussion. 
 
 Afterwards, please upload to Canvas.
 
