@@ -38,10 +38,11 @@ Bitsy is a web-based games designer on itch.io by Adam Le Doux. Best for tiny ad
 Whereas Twine facilitates hypertext narratives where you progress through the story by clicking on links, Inform requires the reader to type commands to interact with the story.
 
 ### Inform resources
-[Inform 7](https://ganelson.github.io/inform-website/) – requires download
-[Inform 7 documentation](https://intfiction.org/t/inform-7-documentation-and-resources/3311)
-[Inform wiki](https://www.ifwiki.org/Inform_7)
-[YouTube tutorial] (https://www.youtube.com/watch?v=bTdoFHTxQRI&list=PLIbbXV3eCGNq8pZ2BK58V4gPyYSji19HE) by Zoroarrkk
+
+- [Inform 7](https://ganelson.github.io/inform-website/) – requires download
+- [Inform 7 documentation](https://intfiction.org/t/inform-7-documentation-and-resources/3311)
+- [Inform wiki](https://www.ifwiki.org/Inform_7)
+- [YouTube tutorial](https://www.youtube.com/watch?v=bTdoFHTxQRI&list=PLIbbXV3eCGNq8pZ2BK58V4gPyYSji19HE) by Zoroarrkk
 
 
 ### Download Inform
@@ -107,13 +108,13 @@ Carry out picking up the cat:
 
 ### Additional game resources
 
-[Directory of open source, experimental and tiny tools](https://tinytools.directory/) 
+- [Directory of open source, experimental and tiny tools](https://tinytools.directory/) 
 
 #### GameMaker platform and example
-[GameMaker](https://gamemaker.io/en) – requires download
-[Touch Melbourne](https://gleeson.itch.io/touchmelbourne) by Andrew Gleeson and Cecile Richard
+- [GameMaker](https://gamemaker.io/en) – requires download
+- [Touch Melbourne](https://gleeson.itch.io/touchmelbourne) by Andrew Gleeson and Cecile Richard
 
 #### Visual Novel games
-[Ren’Py](https://www.renpy.org/) – a “visual novel engine” – requires download
-[Visual Novel Database](https://vndb.org/v?q=&ch=&f=05N18fwRen_7Py-N18a5h741N18Ng01N18gwcomplete-&s=n2w) 
-[Top Visual Novel games tagged IF](https://itch.io/games/tag-interactive-fiction/tag-renpy)
+- [Ren’Py](https://www.renpy.org/) – a “visual novel engine” – requires download
+- [Visual Novel Database](https://vndb.org/v?q=&ch=&f=05N18fwRen_7Py-N18a5h741N18Ng01N18gwcomplete-&s=n2w) 
+- [Top Visual Novel games tagged IF](https://itch.io/games/tag-interactive-fiction/tag-renpy)
