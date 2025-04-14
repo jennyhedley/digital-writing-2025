@@ -4,6 +4,9 @@
 
 Bitsy is a web-based games designer on itch.io by Adam Le Doux. Best for tiny adventures, short narrative games or vignettes, games appear in lo-res, 8-bit style, with only three colours permitted in each room’s colour scheme - two background colours and another for avatars, items and sprites/NPCs. 
 
+**This quick [Bitsy video tutorial](https://www.loom.com/share/e02adc5163c8433fa6a99305d3ffc010?sid=41bf6ce5-732b-4c10-ba5f-ab476249e843) will take you through the steps in the instructions below.**
+
+
 ### Create a Bitsy Game
 
 1. Open GitHub Desktop and create a new repository for your Bitsy game
@@ -38,7 +41,7 @@ Bitsy is a web-based games designer on itch.io by Adam Le Doux. Best for tiny ad
 
 Whereas Twine facilitates hypertext narratives where you progress through the story by clicking on links, Inform requires the reader to type commands to interact with the story.
 
-**This quick [video tutorial](https://www.loom.com/share/f51ed2514a8d404c9e4902d5e52f1fe6?sid=00e497ba-1f32-4ea1-a5c9-127198d29a86) will take you through the steps in the instructions below.**
+**This quick [Inform video tutorial](https://www.loom.com/share/f51ed2514a8d404c9e4902d5e52f1fe6?sid=00e497ba-1f32-4ea1-a5c9-127198d29a86) will take you through the steps in the instructions below.**
 
 ### Inform resources
 
