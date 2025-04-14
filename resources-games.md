@@ -84,8 +84,7 @@ Whereas Twine facilitates hypertext narratives where you progress through the st
 8. Click "Go!" to test - Tip: If you type `go west` at the position of the blinking cursor, the story will reveal The Kitchen
 9. Click "Release" to release
 10. Commit the change
-11. Push to GitHub
-12. Follow the usual [steps to publish with GitHub pages](/resources-games.md#publish-the-game-with-github-pages)
+11. Push to GitHub - note this can't be published as is via GitHub pages because there is no index.html file, but people can download a zipped file of your game and import it into the Inform desktop software
 
 #### Adding a Cat to the Living Room
 
