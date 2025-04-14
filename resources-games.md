@@ -38,6 +38,8 @@ Bitsy is a web-based games designer on itch.io by Adam Le Doux. Best for tiny ad
 
 Whereas Twine facilitates hypertext narratives where you progress through the story by clicking on links, Inform requires the reader to type commands to interact with the story.
 
+**This quick [video tutorial](https://www.loom.com/share/f51ed2514a8d404c9e4902d5e52f1fe6?sid=00e497ba-1f32-4ea1-a5c9-127198d29a86) will take you through the steps in the instructions below.**
+
 ### Inform resources
 
 - [Inform 7](https://ganelson.github.io/inform-website/) – requires download
