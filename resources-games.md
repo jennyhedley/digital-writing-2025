@@ -36,6 +36,21 @@ Bitsy is a web-based games designer on itch.io by Adam Le Doux. Best for tiny ad
 - [Bitsy Games Wiki](https://bitsy.fandom.com/wiki/Bitsy_Wiki)
 - [Bitsy hacks]( https://github.com/seleb/bitsy-hacks) – scripts to enable additional Bitsy functionality
 
+### Additional Bitsy recommendations and info from Mollie
+
+Some Bitsy pieces I like!
+- https://cxmi.itch.io/the-mountain Links to an external site.
+- https://haraiva.itch.io/under-a-star-called-sun Links to an external site. 
+- https://haraiva.itch.io/endless-scroll Links to an external site.  
+- https://haraiva.itch.io/i-am-still-here Links to an external site. 
+- https://caeth.itch.io/reunion Links to an external site.
+- https://princessinternetcafe.itch.io/breathe Links to an external site. 
+- https://communistsister.itch.io/decay Links to an external site. (combination of Bitsy and Twine!)
+
+Where to find more!
+- https://itch.io/games/tag-bitsy Links to an external site. 
+
+Also, Mollie made a [discord server](https://discord.gg/HEmnrkEBGZ) for the class, come say hi!
 
 ## Inform 7
 
