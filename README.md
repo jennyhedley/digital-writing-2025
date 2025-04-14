@@ -462,8 +462,8 @@ We will play through a number of Bitsy examples (which will be added to the repo
 - In what ways do spatial navigation and environmental storytelling function differently in Bitsy games compared to other e-lit forms? What does this ask of the reader/player?
 - How can we make use various game features (e.g., character interactions triggering text, having scenes “loop” differently with each subsequent play) to make a game “literary”, with a compelling emotional timbre?
 
-We will play with the online Bitsy Game Maker, drawing upon our new [games resources page](https://github.com/jennyhedley/digital-writing-2025/blob/main/resources-games.md). 
+We will play with the online Bitsy Game Maker, drawing upon our new [games resources page](https://github.com/jennyhedley/digital-writing-2025/blob/main/resources-games.md). You can follow Jenny's recorded [Bitsy tutorial](https://www.loom.com/share/e02adc5163c8433fa6a99305d3ffc010?sid=c63d4bd8-a9bd-4256-9fae-0ffcf9b2e589) for the basics of editing a Bitsy game and publishing through GitHub pages.
 
-Jenny has recorded a quick [video tutorial](https://www.loom.com/share/f51ed2514a8d404c9e4902d5e52f1fe6?sid=6c48a75c-cd04-4725-a597-9185de2251c1) that will take you through the through the [instructions for Inform 7](/resources-games.md#inform-7).
+Jenny has also recorded a quick [video tutorial](https://www.loom.com/share/f51ed2514a8d404c9e4902d5e52f1fe6?sid=6c48a75c-cd04-4725-a597-9185de2251c1) that will take you through the through the [instructions for Inform 7](/resources-games.md#inform-7).
 
 Since [Assessment Two](https://github.com/jennyhedley/digital-writing-2025/blob/main/class-handbook.md#task-2-proposal-25) is coming up, think about whether there is any tech that you need to know to make your creative prototype for your presentation. We will have time in class today to troubleshoot any of the coding that we have covered so far. 
