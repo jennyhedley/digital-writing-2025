@@ -36,6 +36,22 @@ Bitsy is a web-based games designer on itch.io by Adam Le Doux. Best for tiny ad
 - [Bitsy Games Wiki](https://bitsy.fandom.com/wiki/Bitsy_Wiki)
 - [Bitsy hacks]( https://github.com/seleb/bitsy-hacks) – scripts to enable additional Bitsy functionality
 
+### Bitsy tutorial and example
+
+- [YouTube tutorial](https://www.youtube.com/watch?v=SJtuDQuZvQY) by DatJuanDesigner
+- [Why did the chicken cross the road? game](https://juegos.itch.io/why-did-the-chicken-cross-the-road) by DatJuanDesigner
+
+### More Bitsy examples
+
+- [Top Bitsy games](https://itch.io/games/tag-bitsy)  
+- [Stand Up](https://backslashlit.com/issues/6/rae-white) by Rae White
+- [You are Dough](https://npckc.itch.io/you-are-dough) by npckc
+- [The Mountain is as it Always Was](https://cxmi.itch.io/the-mountain) by Christine Mi – CW themes of grief
+- [Under a Star Called Sun](https://haraiva.itch.io/under-a-star-called-sun) by Cecile Richard – CW themes of grief
+- [Endless Scroll](https://www.voiceworksmag.com.au/all/2019/12/18/endless-scrolls) by Cecile Richard – CW themes of grief
+- [Commute](https://thisisstar.itch.io/commute) by Star St. Germain
+
+
 ### Additional Bitsy recommendations and info from Mollie
 
 Some Bitsy pieces I like!
