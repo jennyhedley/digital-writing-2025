@@ -23,7 +23,6 @@ Jenny and Lucinda will have an open drop in Teams video meeting each Wednesday 5
 - [Maya](https://github.com/mazpod44)
 - [Jordan](https://github.com/PieOfEpicness)
 - [Liv](https://github.com/Livdelesantis)
-- [Loke](https://github.com/LokeBritz)
 - [Luke](https://github.com/LukeWMoroney)
 - [Marley](https://github.com/marleyabbott)
 - [Mollie](https://github.com/azur1al)
@@ -464,5 +463,7 @@ We will play through a number of Bitsy examples (which will be added to the repo
 - How can we make use various game features (e.g., character interactions triggering text, having scenes “loop” differently with each subsequent play) to make a game “literary”, with a compelling emotional timbre?
 
 We will play with the online Bitsy Game Maker, drawing upon our new [games resources page](https://github.com/jennyhedley/digital-writing-2025/blob/main/resources-games.md). 
+
+Jenny has recorded a quick [video tutorial](https://www.loom.com/share/f51ed2514a8d404c9e4902d5e52f1fe6?sid=6c48a75c-cd04-4725-a597-9185de2251c1) that will take you through the through the [instructions for Inform 7](/resources-games.md#inform-7).
 
 Since [Assessment Two](https://github.com/jennyhedley/digital-writing-2025/blob/main/class-handbook.md#task-2-proposal-25) is coming up, think about whether there is any tech that you need to know to make your creative prototype for your presentation. We will have time in class today to troubleshoot any of the coding that we have covered so far. 
