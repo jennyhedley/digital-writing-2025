@@ -308,7 +308,7 @@ This point from the Week 3 Reading by Memmott (2006 p.293) is useful to think ab
 
 - “These terms are liquid delimiters for creative cultural practice through applied technology. The context in which any given term is used provides the framework for its definition, however tentative or temporary. The terms are conveniences—(perhaps) for the sake of argument.”
 
-- ## Week 7
+## Week 7
 
 ### Monday class – 14th April
 
@@ -325,8 +325,6 @@ We will play through a number of Bitsy examples (which will be added to the repo
 We will play with the online Bitsy Game Maker, drawing upon this new class [games resources page](https://github.com/jennyhedley/digital-writing-2025/blob/main/resources-games.md). 
 
 Since Assessment Two is due right after the upcoming break, think about whether there is any tech that you need to know to make your prototype for your presentation. We will have time in class today to troubleshoot any of the coding that we have covered so far. 
-![image](https://github.com/user-attachments/assets/2c32f7f8-827a-41aa-a3ea-c6aef1f95a3f)
-
 
 **Assignment Instruction**: You should then spend most of your time unpacking 'How does it happen?' whatever it is that this digital work does. Ask yourself: how a reader interacts with the work or whether they can; the relationship between imagery and text; how the text changes between readings; how movement acts in the work; the structure of the work; the technologies used; the relationship between space and time in the work (explicit or implicit); the relationship between the work and the browser. 
 
