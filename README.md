@@ -456,4 +456,9 @@ Today's class will be a working session. I would really like to see everyone's c
 
 Assessment 1 Results are now released and so you'll be able to make a point of taking on this feedback for your second presentation. 
 
+## Mid-semester break - key notes
 
+**Mollie made a [discord server](https://discord.gg/HEmnrkEBGZ) for the students in our class, come say hi!**
+You and your classmates have so much knowledge which you can pool together. The hive mind is capable of great things, including sourcing coding solutions. Keep in touch with one another over break, share your challenges and your breakthroughs. Jenny and Lucinda will be on leave over mid-semester break, so your cohort will be your best resource for working things out. Keep track of anything that cannot be solved by the hive mind, as we will dedicate class time - likely on the Mondays in Weeks 10, 11 and 12 - to troubleshooting code and finding solutions to realise your projects. 
+
+**Very important: Please make sure that you follow the [assessment brief](https://github.com/jennyhedley/digital-writing-2025/blob/main/class-handbook.md#task-2-proposal-25) which is published in this GitHub repo, as it tailors the general assessment requirement, listed in Canvas, to Digital Writing specifically.**
