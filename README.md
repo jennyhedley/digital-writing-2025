@@ -388,7 +388,7 @@ This week's Required Reading (Aarseth 1997) unpacks some territory that speak di
 - What do you think of Aarseth's concept? explain how it offer an alternative to conventional ideas of narrative and the role of reader and writer?
 
 Regarding our discussion about new terms and concents for thinking beyond binaries: author/reader text/audience ficion/fact etc, and genres or 'silos': novel, poetry, essay, memoir, literature, art, game etc    
-- deleuze and the 'rhizome' from [Wikipedia](https://en.wikipedia.org/wiki/Rhizome_(philosophy)) I will an optional extended reading for anyone interesting in this idea
+- deleuze and the 'rhizome' from [Wikipedia](https://en.wikipedia.org/wiki/Rhizome_(philosophy)) I will add an optional extended reading for anyone interesting in this idea
 - new media art [rhizome.org](https://rhizome.org)
 
   ### In Class
