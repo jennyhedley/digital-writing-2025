@@ -472,6 +472,8 @@ Assessment 2 is happening as soon as we come back from the Mid Term break. Pleas
 
 Today's class will be a working session. I would really like to see everyone's concept/story mapping so far (see week 5 activity) and plans toward Ass 2, including an achievable list of things to do over the break. Jenny and I won't be available for trouble shooting as we will be on leave so it's important you plan out what you need to do and contingencies for what you will present. 
 
+[Here](https://forms.office.com/r/hgARSa0LLc) is a feedback form that we would really appreciate you filling out. You can tell us how you are going and anything specific you need to realise your goals and ideas in the second part of semester.
+
 Assessment 1 Results are now released and so you'll be able to make a point of taking on this feedback for your second presentation. 
 
 
