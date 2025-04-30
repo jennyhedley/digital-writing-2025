@@ -494,7 +494,7 @@ What needs to be **developed?**
 **Exercise**
 Now you have introduced your piece and some prototype pages, it can be a good idea to step off the digital platform and fully scope your ideas through writing, or drawing, or a simple form of digital mapping (like Miro). Something that gives you some flow away from the tech.
 
-Here is a [template you might like to use](https://miro.com/app/board/uXjVI86sGI4=/?share_link_id=919709815169)(PASSWORD: template) This is adapted from a Design Thinking tool that puts the audience experience within the concept development. Also in PDF on Canvas print it out in A3 (A4 will be too small) 
+Here is a [template you might like to use](https://miro.com/app/board/uXjVI86sGI4=/?share_link_id=919709815169)(PASSWORD: template) This is adapted from a Design Thinking tool that puts the audience experience within the concept development. Also in [PDF on Canvas print it out in A3 (A4 will be too small)](https://rmit.instructure.com/courses/146513/files/45263627?module_item_id=7301579) 
 
 You need to find the edges of your piece to know how much you need to do to develop and resolve it. That means drafting/mapping the whole thing if you have not done so already **at this stage it is important that this is done in detail**. You can use the template above or another kind of map. If you use a physical medium take photos and pop them in a sharefolder linked to your Github folio. Quite a few people showed how they are usin colour coding in miro to think through the different threads of their pieces. 
 
