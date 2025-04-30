@@ -475,7 +475,7 @@ In Assessment 2 you have introduced these ideas. Our activity today will help yo
 
 The length/scope/scale of the work must be clarified and confirmed by the end of this week.
 
-## Reflection on Feedback and Peer Presentations **Required activity for final folio (can be completed anytime this week)**
+**Reflection on Feedback and Peer Presentations Required activity for final folio (can be completed anytime this week)**
 
 What has been **introduced?** Summarise your proposed piece
 - What are the themes and ideas is your piece is exploring?:
@@ -508,8 +508,4 @@ Scope and Scale
 - what else might be an obstacle? flag it early with Jenny and Lucinda 
 
 
-
-
-
-(also see Week 5) 
 
