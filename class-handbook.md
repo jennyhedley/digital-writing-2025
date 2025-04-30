@@ -96,3 +96,5 @@ This is a great place to demonstrate the breadth of your engagement - what have 
 As well as documenting your lab work, the folio should include professional materials discussed throughout the semester. For the digital writing studio, that includes (but doesn't have to be limited to - it's up to you) a link to your GitHub account, an artist's statement and a personal webpage or artist CV. In the `readme.md` file of your coding playground, be sure to include the URL of the Glitch.com website that you worked on editing in the first three weeks of class.
 
 The folio must include a polished work of electronic literature that you have prepared this semester. This is a complete work, not a prototype, with ideas that have been introduced, developed and resolved. The length of the work will vary depending on the kind of work that you develop so the final length should be proposed in Week 8 and agreed on by your lab leader.
+
+**Final weeks schedule** Please see [Canvas module](https://rmit.instructure.com/courses/146513/pages/class-activities-w9-12) for schedule of our final weeks 9 - 12.  
