@@ -480,7 +480,7 @@ The length/scope/scale of the work must be clarified and confirmed by the end of
 What has been **introduced?** Summarise your proposed piece
 - What are the themes and ideas is your piece is exploring?:
 - What literary genre or style are you drawing on? Is it narrative driven or more poetic and associative? Or essayistic? 
-- succinctly: What is the story? Or, what do you want to express/communicate throughj this piece? 
+- succinctly: What is the story? Or, what do you want to express/communicate through this piece? 
 - what do you wish there reader to understand of feel? 
 
 What needs to be **developed?**
