@@ -430,3 +430,22 @@ The fonts then should appear as expected in the Twine passages with the tags `ni
 3. From your browser select "Save Page As"
 4. Navigate to your project directory/folder
 5. Save the file as `proof.html` in the same directory as your `index.html`
+
+
+## How to Add the Typewriter Effect to a Passage
+
+Insert the following code into your passage:
+
+`(set: $typewriterText to "This will appear like it's being typed.")
+(set: $charIndex to 0)
+(set: $typewriterSpeed to 0.3)
+
+(live: $typewriterSpeed)[
+  (if: $charIndex < $typewriterText's length)[
+    (set: $charIndex to $charIndex + 1)
+    (print: (substring: $typewriterText, 1, $charIndex))
+    (if: $charIndex is $typewriterText's length)[
+      (stop:)
+    ]
+  ]
+]`
