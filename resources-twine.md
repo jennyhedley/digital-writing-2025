@@ -436,7 +436,8 @@ The fonts then should appear as expected in the Twine passages with the tags `ni
 
 Insert the following code into your passage:
 
-```(set: $typewriterText to "This will appear like it's being typed.")
+```
+(set: $typewriterText to "This will appear like it's being typed.")
 (set: $charIndex to 0)
 (set: $typewriterSpeed to 0.3)
 
