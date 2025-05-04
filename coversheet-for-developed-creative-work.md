@@ -3,8 +3,8 @@
 - Title of the work
 - Description of the work (~50 words)
 - Intended audience
-- Developed work GitHub Pages link(s)
-- Developed work GitHub links(s)
+- Developed working GitHub Pages link(s) or link to Vercel or Netlify site if published there
+- Developed work GitHub repository links(s)
 - For Twine works a "proof" added to the GitHub repository
 - For Bitsy works the data file added to the GitHub repository
 
