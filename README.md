@@ -508,4 +508,19 @@ Scope and Scale
 - what else might be an obstacle? flag it early with Jenny and Lucinda 
 
 
+## Week 9
 
+### Monday class – 5th April
+Any remaining Assessment 2 presentations.
+
+Today we will focus on making author websites in Glitch using an easy-to-use template built by Jenny with the help of ChatGPT. We will publish our author sites through GitHub, assigning them the URL `username.github.io`, much like Jenny's author website is on [jennyhedley.github.io](https://jennyhedley.github.io/). If you miss class, you can read about how to [publish to your github.io page](https://docs.github.com/en/pages/quickstart#creating-your-website).
+
+Here is the website which you can edit for your own purposes: link to be provided during class. You may also create your own design from scratch or with the help of AI.
+
+#### Very important video notice re Publishing Your Coding Playground & Fixing ./style.css directory issues
+
+We will cover the content from this video in class, however, if you miss class please [watch this 5-minute clip](https://www.loom.com/share/91e6eb98cfc2460bbc279f62951813fe?sid=2f21ca10-14c1-4d12-995b-51612a0aed1a). This video covers an important fix to the stylesheet directory which anticipates our work today building author websites and publishing them through GitHub pages. This is a coding solution you will want to be mindful of across any of your HTML/CSS projects published through GitHub, which involves changing the code in the `<head>` of your `index.html` file from `<link rel="stylesheet" href="/style.css" />` to `<link rel="stylesheet" href="./style.css" />`. The dot before the `/style.css` becomes very important as soon as you claim your `username.github.io` webpage!
+
+It is a requirement that you have published your version of the coding playground - which we worked on in Weeks 1–3 - and included in your Assessment 3 folio. You will need to include the URL of both your GitHub repository for the playground, and one link either to the deployed site which you've published through GitHub Pages, Vercel, Netlify or other free host. Same for your author website, main project and other coding experiments. We will compile a list of exactly what you need to provide asap.
+
+In previous years, people have lost marks on the final assessment where they have said things like "I don't know how to publish my site". The multiple video recordings, such as this one and the Twine image maps video that shows you how to create and publish a Twine project, are designed to help you overcome any hurdles. If you need a video recording of any other specific knowledge, please request it in advance.
