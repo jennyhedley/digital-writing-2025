@@ -52,3 +52,58 @@
 - [WordPress](https://wordpress.com/)
 - [Squarespace](https://www.squarespace.com/)
 - [Weebly](https://www.weebly.com/au)
+
+## A block of code to display an essay on a web page, preserving formats with `<pre>` tags - you can ignore the error in Glitch
+
+```
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- import fonts here -->
+
+    <title>Author Website</title>
+   <style>
+    body {
+      background: white;
+      color: black;
+      font-family: Georgia, serif;
+      padding: 4rem;
+      margin: 0;
+      line-height: 1.6;
+    }
+
+    pre {
+      white-space: pre-wrap;   /* allows word wrapping inside <pre> */
+      font-family: Georgia, serif;
+      font-size: 1.1rem;
+      background-color: rgba(255, 255, 255, 0.05);
+      padding: 2rem;
+      border-radius: 12px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.4);
+    }
+  </style>
+</head>
+<body>
+
+<pre>
+This is the title of the essay
+
+    This is an indented paragraph, written with the original formatting preserved.
+    Notice that line breaks and spacing are kept exactly as typed.
+
+    You can still *emphasize text* or use _underscores_ if you like, even if it's
+    not semantic HTML — just be consistent with your styling.
+
+Here's another paragraph, without needing <p> tags or inline italics.
+
+        - A bullet point
+        - Another bullet point
+
+    The formatting is yours to control.
+</pre>
+
+</body>
+</html>
+```
