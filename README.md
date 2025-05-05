@@ -515,7 +515,7 @@ Any remaining Assessment 2 presentations.
 
 Today we will focus on making author websites in Glitch using an easy-to-use template built by Jenny with the help of ChatGPT. We will publish our author sites through GitHub, assigning them the URL `username.github.io`, much like Jenny's author website is on [jennyhedley.github.io](https://jennyhedley.github.io/). If you miss class, you can read about how to [publish to your github.io page](https://docs.github.com/en/pages/quickstart#creating-your-website).
 
-Here is the website which you can edit for your own purposes: link to be provided during class. You may also create your own design from scratch or with the help of AI.
+Here is the [website which you can edit for your own purposes](https://glitch.com/edit/#!/dw-author-website). You may also create your own design from scratch or with the help of AI.
 
 #### Very important video notice re Publishing Your Coding Playground & Fixing ./style.css directory issues
 
