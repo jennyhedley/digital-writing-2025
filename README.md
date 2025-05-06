@@ -31,7 +31,7 @@ Jenny and Lucinda will have an open drop in Teams video meeting each Wednesday 5
 - [Ruby](https://github.com/RCGrant)
 - [Sarah](https://github.com/sarah2361)
 - [Thomas](https://github.com/Thomas-McLean)
-- [Toulani](https://github.com/lanisalt)
+- [Taulani](https://github.com/lanisalt)
 - [Upani](https://github.com/upanicp)
 - [Zoë](https://github.com/zoeniamh) 
 
