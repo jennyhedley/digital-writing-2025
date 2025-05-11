@@ -1,6 +1,8 @@
-# Assessment 3 - Folio Requirements. Full documentation should be on github with PDF compilation (30 pages max) submitted to Canvas with live links. 
+# Assessment 3 - Folio Requirements. 
 
-The folio demonstrates your experimentation and engagement with the form during the class. It needs to address the criteria as outlined in the class handbook: 
+The folio demonstrates your experimentation and engagement with the form during the class. Full documentation should be on github with PDF compilation (30 pages max) submitted to Canvas with live links. 
+
+The folio needs to address the criteria as outlined in the class handbook: 
 
 1. Objectives
    - All the required professional documents are present (GitHub account, an artist's statement and a personal webpage or artist CV)
