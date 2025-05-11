@@ -19,7 +19,7 @@ The folio demonstrates your experimentation and engagement with the form during 
    - Week 6 250 to 300 words (minimum) on previous student works considered in class
 5. Reflection
    - Your artist statement
-   - Reflection on the class and how your practice has developed (in final 500 word piece)
+   - Reflection on the class and how your practice has developed 
    - Reflections on the class exercises weekly as specified in the class README.
    - Reflections on your developed creative work 
 6. Presentation
@@ -30,7 +30,7 @@ The folio demonstrates your experimentation and engagement with the form during 
 
 Ensure that you read the [digital writing folio assessment description in the class handbook](./class-handbook.md).
 
-**What should be in my digital folio repository?** Your digital folio should document all your ectivity and engagement with class exercises and learning activities over the semester such as links to your digital experiments completed in class and short reflections on those experiments, and reflections on key readings as outlined in the README.md file. Try to capture as much as you can in your folio. If you had a few iterations of your final project or experimented with techniques you did not use in your final piece; the folio is the place to record this with reflections and/or links to the experiments.Y
+**What should be in my digital folio repository?** Your digital folio should document all your activity and engagement with class exercises and learning activities over the semester such as links to your digital experiments completed in class and short reflections on those experiments, and reflections on key readings as outlined in the README.md file. Try to capture as much as you can in your folio. If you had a few iterations of your final project or experimented with techniques you did not use in your final piece; the folio is the place to record this with reflections and/or links to the experiments.
 
 **For the submission to Canvas, the PDF document should include:**
 
