@@ -42,7 +42,7 @@ Ensure that you read the [digital writing folio assessment description in the cl
 - An link to your artist website that serves as a CV (e.g. artist bio and publications).
 - A link to your GitHub account and your digital writing folio GitHub repository. 
 - Screenshots and working links to your digital experiments, including: the coding playground where you have edited each of the poems and applied styling changes, your remixed "To Make a Dadaist Poem", and a Twine game that at a minimum has a working image map which links to passages. Optionally, you may include links to Bitsy and Inform games.
-- Additional pages to your submission document should include reading notes on the works of electronic literature and readings as specified throughout semester in the class README.me. WIP feflections on your key learning during the course, and experiences workshopping your creative project. 
+- Additional pages to your submission document should include reading responses as specified throughout semester in the class README.me. WIP reflections on your key learning during the course, and experiences workshopping your creative project. 
 - Any documentation on the development of your creative work with any scans of any designs and notes.
 - [Coversheet for your developed creative work](./coversheet-for-developed-creative-work.md)
 
