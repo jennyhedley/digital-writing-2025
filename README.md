@@ -554,7 +554,8 @@ Jenny will be approximately 10 minutes late to the final three Wednesday 5.15pm 
 Please take advantage of these sessions as Jenny will only be available for consultation through the Wednesday drop-in session of Week 12. Please be mindful that Jenny is employed as a casual, short-term academic and is not contracted to work beyond Wednesday 28th May except for a specific number of marking hours to grade assessments.
 
 **Today from 4.45pm: structured time to plan the Horizons showcase which will take place during class next Monday**
-Location: 008.004.013  Each class has 30 minutes. There are heaps of tables in the room so it would be great to bring laptops and have WIP pieces available for people to test and play with.
+
+Showcas Location: 008.004.013  Each class has 30 minutes. There are heaps of tables in the room so it would be great to bring laptops and have WIP pieces available for people to test and play with.
  
 Now: showcase preparation is the first activity in the reflective phase of the course where you can begin to identify and articulate key insights and learning that has happened for you.
 
