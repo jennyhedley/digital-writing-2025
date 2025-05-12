@@ -85,7 +85,7 @@ Afterwards, please upload to Canvas.
 
 Folio of 15-30 pages comprising creative experiments (including screenshots with a links for the digital experiments), professional materials, reflection and a work of electronic literature with a length agreed on by your lab leader.
 
-**Due end of Week 13, by midnight, to TurnItIn/Canvas**
+**Due end of Week 13, Friday 6th June by midnight, to TurnItIn/Canvas**
 
 Deliver a folio of the work developed during your lab and an accompanying, formal reflection that engages with the studio, the group, and the development of your work over/through the course of the semester, asking: how does my work fit within the context of my community?
 
