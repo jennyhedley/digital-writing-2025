@@ -451,3 +451,17 @@ Insert the following code into your passage:
   ]
 ]
 ```
+
+
+## Solution from Angelo on how to remove Twine's back/forward arrows
+
+The StyleSheet code is simply this:
+
+```
+tw-sidebar
+{
+      display: none;
+}
+```
+
+This should remove the sidebar + arrows when added in, however it does not actually "remove" the sidebar, it just makes its contents invisible.
