@@ -1,4 +1,4 @@
-# digital-writing-2025
+![image](https://github.com/user-attachments/assets/3e84f398-f721-4423-a593-2b4ed3682dfd)# digital-writing-2025
 RMIT University 2025 Digital Writing Lab notes and exercises.
 
 ## Class Resources
@@ -510,7 +510,7 @@ Scope and Scale
 
 ## Week 9
 
-### Monday class – 5th April
+### Monday class – 5th May
 Any remaining Assessment 2 presentations.
 
 Today we will focus on making author websites in Glitch using an easy-to-use template built by Jenny with the help of ChatGPT. We will publish our author sites through GitHub, assigning them the URL `username.github.io`, much like Jenny's author website is on [jennyhedley.github.io](https://jennyhedley.github.io/). If you miss class, you can read about how to [publish to your github.io page](https://docs.github.com/en/pages/quickstart#creating-your-website).
@@ -525,7 +525,7 @@ It is a requirement that you have published your version of the coding playgroun
 
 In previous years, people have lost marks on the final assessment where they have said things like "I don't know how to publish my site". The multiple video recordings, such as the one above and the Twine image maps video that shows you how to create and publish a Twine project, are designed to help you overcome such hurdles. If you need a video recording of any other specific knowledge, please request it in advance. We will not be available for consultation beyond the final class on Wednesday 28th May so figure out what you need to know asap.
 
-### Wednesday class – 7th April
+### Wednesday class – 7th May
 Any remaining Assessment 2 presentations.
 
 Today we will continue work on the creative development of your piece. You will work in small groups to workshop your concept and prototype pages asking your peers to consider the same questions you considered yourself last week:
@@ -537,3 +537,25 @@ Today we will continue work on the creative development of your piece. You will 
 
 **Requirement for final folio (200 words minimum - can be done any time this week)** 
 Update your folio with a summary and reflection on the feedback you recieved and dot points for next steps with planned dates for doing it.  
+
+## Week 10
+
+### Monday class – 12th May
+
+Today we will spend the first two-plus hours of class troubleshooting common errors and making sure you have the tools you need to meet the requirements of the folio. Please bring to class any issues that you are having with your code, so that we can work together to problem-solve. If there is anything that we cannot solve together, provided that you send me aka Jenny a link to your code asap, I will research possible solutions for you.
+
+You are welcome to take breaks as needed during class and to work in small groups to take advantage of the hive mind. This will be especially useful if you know people are using similar code to you.
+
+Today from 4.45pm we will have structured time to plan the Horizons showcase which will take place during class next Monday. 
+
+Next Monday we will meet in class at 2.30pm as usual and run through an hour of troubleshooting before we walk over to 8.4.13 together for the showcase which runs from 3.30–5pm.
+
+**Note re Wednesday drop-in sessions for troubleshooting**
+
+Jenny will be approximately 10 minutes late to the final three Wednesday 5.15pm drop-in sessions due to parenting demands, and will keep the meetings open at least 10 minutes later, until 6.25pm, to accommodate troubleshooting. 
+
+Please take advantage of these sessions as Jenny will only be available for consultation through the Wednesday drop-in session of Week 12. Please be mindful that Jenny is employed as a casual, short-term academic and is not contracted to work beyond Wednesday 28th May except for a specific number of marking hours to grade assessments.
+
+### Wednesday class – 14th May
+
+
