@@ -594,9 +594,11 @@ Assessment 3 Folio Requirements: Q&A and run through details.
 - What needs to be in the PDF? What needs to be in the GitHub repo? 
 - 2024 exemplars
 
-Reflection Activity 2: discussion of your reflections from Monday and identify key points for 500 words critical reflective piece for folio. Formulation of run-sheet/score for Showcase next Monday. 
+Reflection Activity 2: discussion of your reflections from Monday and identify key points for 500 words critical reflective piece for folio. 
 
-Consultations and progress on creative piece.  
+Collective authoring of [collective presentation score](https://docs.google.com/document/d/1ufpVlpm32YW4uVl108ipwqBu3vm6ma-9LltoOtXvRtE/edit?usp=sharing) for Showcase next Monday. 
+
+Consultations and working on creative pieces.  
 
 
 
