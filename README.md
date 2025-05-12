@@ -555,7 +555,7 @@ Please take advantage of these sessions as Jenny will only be available for cons
 
 **Today from 4.45pm: structured time to plan the Horizons showcase which will take place during class next Monday**
 
-Showcas Location: 008.004.013  Each class has 30 minutes. There are heaps of tables in the room so it would be great to bring laptops and have WIP pieces available for people to test and play with.
+Showcase Location: 008.004.013  Each class has 30 minutes. There are heaps of tables in the room so it would be great to bring laptops and have WIP pieces available for people to test and play with.
  
 Now: showcase preparation is the first activity in the reflective phase of the course where you can begin to identify and articulate key insights and learning that has happened for you.
 
@@ -567,7 +567,7 @@ Reflection Activity: (document this activity in your GitHub, these notes will be
 - how has your creative writing practice developed? are there new directions? Or perhaps it has confirmed something about your practice as it was? 
 - what particular aspects of code-based writing and E-Lit might inform your practice from here on? Perhaps you will take an aspect of E-Lit into an analogue space? Perhaps you will never go near code ever again!
 
-Showcase presentation idea - drawing on your reflections, perhaps everyone reads one line of a collage work made up of expectations from week 1 and current reflections on learning. This is just a suggestion but it could be fun. We can finalise on Wednesday. 
+Showcase presentation idea - drawing on your reflections, perhaps everyone reads one line of a collective collage work made up of expectations from week 1 and current reflections on learning. This is just a suggestion but it could be fun. We can finalise on Wednesday. 
 
 These are your expectations from Week 1:
 - Understanding what’s happening in the digital space as an analogue person
