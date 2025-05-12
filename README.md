@@ -545,8 +545,6 @@ Today we will spend the first two-plus hours of class troubleshooting common err
 
 You are welcome to take breaks as needed during class and to work in small groups to take advantage of the hive mind. This will be especially useful if you know people are using similar code to you.
 
-Today from 4.45pm we will have structured time to plan the Horizons showcase which will take place during class next Monday. 
-
 Next Monday we will meet in class at 2.30pm as usual and run through an hour of troubleshooting before we walk over to 8.4.13 together for the showcase which runs from 3.30–5pm.
 
 **Note re Wednesday drop-in sessions for troubleshooting**
@@ -555,6 +553,51 @@ Jenny will be approximately 10 minutes late to the final three Wednesday 5.15pm 
 
 Please take advantage of these sessions as Jenny will only be available for consultation through the Wednesday drop-in session of Week 12. Please be mindful that Jenny is employed as a casual, short-term academic and is not contracted to work beyond Wednesday 28th May except for a specific number of marking hours to grade assessments.
 
+**Today from 4.45pm: structured time to plan the Horizons showcase which will take place during class next Monday**
+Location: 008.004.013  Each class has 30 minutes. There are heaps of tables in the room so it would be great to bring laptops and have WIP pieces available for people to test and play with.
+ 
+Now: showcase preparation is the first activity in the reflective phase of the course where you can begin to identify and articulate key insights and learning that has happened for you.
+
+Reflection Activity: (document this activity in your GitHub, these notes will be helpful for developing your final critical reflection too)
+
+5 - 7 mins: Make some quick and dirty reflective notes: 
+
+- what were your expectations coming into the class and what have you learnt? 
+- how has your creative writing practice developed? are there new directions? Or perhaps it has confirmed something about your practice as it was? 
+- what particular aspects of code-based writing and E-Lit might inform your practice from here on? Perhaps you will take an aspect of E-Lit into an analogue space? Perhaps you will never go near code ever again!
+
+Showcase presentation idea - drawing on your reflections, perhaps everyone reads one line of a collage work made up of expectations from week 1 and current reflections on learning. This is just a suggestion but it could be fun. We can finalise on Wednesday. 
+
+These are your expectations from Week 1:
+- Understanding what’s happening in the digital space as an analogue person
+- Where does DW intersect with current technologies and how can we use these to augment writerly works?
+- Curious to learn new things
+- What even is software development and coding?
+- How can we take writing (an old technology) into a contemporary space?
+- Learning about possibilities of form, especially concrete poetry
+- How does writing in code look on the page?
+- Developing skills: CSS, custom coding beyond basics especially in poetry space
+- Where will the formatting take our writing?
+- Interactive elements
+- Learning to upgrade writing skills in digital world
+- Experimenting with form
+- Interactive fiction, digital entropy, impermanence
+- Moving out of comfort zone, past the Word doc
+- How do different digital elements change the way someone experiences a work
+- How can the audience interact with and alter the meaning of the poem?
+- How can DW break boundaries and rules of analogue? How can we then break DW rules?
+
 ### Wednesday class – 14th May
+
+Assessment 3 Folio Requirements: Q&A and run through details. 
+- What needs to be in the PDF? What needs to be in the GitHub repo? 
+- 2024 exemplars
+
+Reflection Activity 2: discussion of your reflections from Monday and identify key points for 500 words critical reflective piece for folio. Formulation of run-sheet/score for Showcase next Monday. 
+
+Consultations and progress on creative piece.  
+
+
+
 
 
