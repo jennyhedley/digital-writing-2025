@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/3e84f398-f721-4423-a593-2b4ed3682dfd)# digital-writing-2025
-RMIT University 2025 Digital Writing Lab notes and exercises.
+# RMIT University 2025 Digital Writing Lab notes and exercises
 
 ## Class Resources
 
