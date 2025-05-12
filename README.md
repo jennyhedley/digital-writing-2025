@@ -602,6 +602,6 @@ Consultations and working on creative pieces.
 
 ## Course Experience Survey - Open now
 
-The CES has launched and we invite you to give feedback which will help shape future iterations of this course. Visit [this link](https://bit.ly/cesrmit) to let RMIT know what you thought of the learning experience, the online content, what you loved and what you'd change. The link closes on 8th June. **Take the survey to go into a weekly draw to win a $500 voucher.*
+The CES has launched and we invite you to give feedback which will help shape future iterations of this course. Visit [this link](https://bit.ly/cesrmit) to let RMIT know what you thought of the learning experience, the online content, what you loved and what you'd change. The link closes on 8th June. *Take the survey asap and you'll be entered into a weekly draw where you can win a $500 voucher.*
 
 
