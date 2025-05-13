@@ -559,7 +559,7 @@ Showcase Location: 008.004.013  Each class has 30 minutes. There are heaps of ta
  
 Now: showcase preparation is the first activity in the reflective phase of the course where you can begin to identify and articulate key insights and learning that has happened for you.
 
-Reflection Activity: (document this activity in your GitHub, these notes will be helpful for developing your final critical reflection too)
+Reflection Activity 1: (document this activity in your GitHub, these notes will be helpful for developing your final critical reflection too)
 
 5 - 7 mins: Make some quick and dirty reflective notes: 
 
@@ -593,12 +593,30 @@ These are your expectations from Week 1:
 Assessment 3 Folio Requirements: Q&A and run through details. 
 - What needs to be in the PDF? What needs to be in the GitHub repo? 
 - 2024 exemplars
+- If you wish to include a CV instead of, or as well as, your personal website [RMIT jobshop](https://www.rmit.edu.au/students/careers-opportunities/jobs-careers-employability/career-connect) can help you write one.
 
-Reflection Activity 2: discussion of your reflections from Monday and identify key points for 500 words critical reflective piece for folio. 
+Reflection Activity 2: Preparation for Horizons showcase. Here is one idea: [collective presentation score](https://docs.google.com/document/d/1ufpVlpm32YW4uVl108ipwqBu3vm6ma-9LltoOtXvRtE/edit?usp=sharing). OR Mollie has sugested these reflective prompts that a few of you could respond to: 
 
-Collective authoring of [collective presentation score](https://docs.google.com/document/d/1ufpVlpm32YW4uVl108ipwqBu3vm6ma-9LltoOtXvRtE/edit?usp=sharing) for Showcase next Monday. 
+Discuss how you came to be a part of the Digital Writing Studio and why you chose it.
+- Why did you choose this studio?
+- What knowledge did you possess of digital writing/interactive fiction prior to this studio?
+- What were you excited about learning or furthering your knowledge on?
+- What were you worried about when joining this studio?
+ 
+Discuss what we learnt about and what interested you.
+- Were there any portions of the class that stood out to you?
+- Was there anything that you were able to expand your prior knowledge on?
+- You can discuss your case study here if you would like to.
+ 
+Discuss your final project and how it may relate back to your initial interests in the class or what we have learnt.
+- What has inspired your final project?
+- What knowledge from this studio are you using to create this final project?
+ 
+Discuss how this studio has impacted your writing practice.
+- Is interactive fiction something that you will continue to do after this studio?
+- Has learning about and experimenting with interactive fiction influenced how you approach writing as a whole?
 
-Consultations and working on creative pieces.  
+These prompts also serve as a good place to begin jotting ideas toward 500 words for Ass 3. 
 
 ## Course Experience Survey - Open now
 
