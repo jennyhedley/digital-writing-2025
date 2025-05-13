@@ -28,7 +28,7 @@ The folio needs to address the criteria as outlined in the class handbook:
    - Presentation of the folio
    - Presentation of the developed creative work
 7. Referencing
-   - Consistent referencing using the American Psychological Association 7th edition  (APA 7)
+   - Consistent referencing using RMIT Harvard style 
 
 Ensure that you read the [digital writing folio assessment description in the class handbook](./class-handbook.md).
 
