@@ -82,6 +82,18 @@ Your Twine story should now be published. Every time you make a change, save ove
 5. If you want the original sentence "I dream of cats" to change to "I dream of cats and horses" you would add after the original sentence `(click-append: "cats") [ and horses]`. Notice how we put a space before the words "and horses" so it doesn't come out as "catsand horses"
 7. Along with `click-append`, `click-prepend` is another option you can play with
 
+### Sample code which shows how to append text when you click a sentence, while encoding a line break between 
+
+```
+This is my line of dialogue. (click-append:"This is my line of dialogue.") [
+
+This is the new line that appears after clicking.] (click-append:"This is the new line that appears after clicking.") [
+
+This is another line.] (click-append:"This is another line.")[
+
+This is yet another line.]
+```
+
 ### Text transition delay and effects
 
 If you would like a line of text to appear after a specified transition delay, you can specify how long til you want the transition to take place AND the type of transition, using a plus sign inbetween.
