@@ -284,6 +284,7 @@ To set per passage background images in Twine we can use tags on the passage and
 3. Below the passage name select the "+ Tag" button and add a tag called "example-background" (the tag can be called anything so long as there are no spaces)
 4. Open "Story"->"Stylesheet" from the menu
 5. Add the following styles to show the background image (in this example we expect a background image called `background-example.jpg`)
+   
    ```css
    tw-story[tags~="example-background"] {  /* the tag added in step 2 */
      background-image: url(./images/background-example.jpg);  /* the image added in step 1 */
@@ -301,6 +302,9 @@ tw-story[tags~="example-background"] {
   background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(./images/background-example.jpg) center center / cover no-repeat fixed;
 }
 ```
+
+The fourth of each of the rgba values determines whether you are making the item more transparent with a higher value like 0.8 or 0.9, or only slightly transparent with a value of 0.2 or 0.3. A value of 0.5 represents 50% transparency.
+
 
 ## Image Maps
 **Follow this [guided video instruction](https://www.loom.com/embed/8ec5d97f6c1c4683adec6439049d33f2?sid=f0d64dfd-6e97-484c-9383-fd4b16670fdc) to assist you in completing a basic image map in Twine**
