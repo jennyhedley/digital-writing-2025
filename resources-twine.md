@@ -275,6 +275,31 @@ To use the grid layout to display an image to the right-hand side of the text:
 
 If you want the image to appear on the left and the text on the right, then swap the values for `grid-column`.
 
+### If your text style for links continues to appear in Harlowe's default blue colour, try this code
+
+```
+tw-link,
+tw-link:link,
+tw-link:visited,
+tw-link:hover,
+tw-link:active,
+tw-link.visited,
+tw-link.visited:hover,
+.enchantment-link,
+tw-hook[class*="link"],
+a.enchantment-link {
+  color: #3C3633 !important;
+  font-weight: bold !important;
+  text-decoration: none !important;
+}
+ 
+/* Targets the internal span that Harlowe sometimes uses */
+tw-link span,
+.enchantment-link span {
+  color: #3C3633 !important;
+}
+```
+
 ### Background Images Using Tags
 
 To set per passage background images in Twine we can use tags on the passage and then use these tags to set the background image where a passage is tagged.
