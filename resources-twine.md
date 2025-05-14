@@ -292,6 +292,16 @@ To set per passage background images in Twine we can use tags on the passage and
    }
    ```
 
+### Changing the transparency of a background image
+
+Once you have tagged passages to assigne a particular background image, you can adjust the gradient of that image - for example, to make it dimmer so that your text stands out better - by adapting the following code in your stylesheet:
+
+```
+tw-story[tags~="example-background"] {
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(./images/background-example.jpg) center center / cover no-repeat fixed;
+}
+```
+
 ## Image Maps
 **Follow this [guided video instruction](https://www.loom.com/embed/8ec5d97f6c1c4683adec6439049d33f2?sid=f0d64dfd-6e97-484c-9383-fd4b16670fdc) to assist you in completing a basic image map in Twine**
 
