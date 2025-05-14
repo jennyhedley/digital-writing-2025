@@ -618,7 +618,23 @@ Discuss how this studio has impacted your writing practice.
 
 These prompts also serve as a good place to begin jotting ideas toward 500 words for Ass 3. 
 
+## Week 11
+
+### Monday class – 19th May
+
+Today we will spend the first hour of class troubleshooting tech issues. If you are using Twine and have not embedded images yet, test this out asap. People commonly have directory issues that need to be worked through.
+
+Also make sure your project is published using GitHub Pages as this is how Lucinda and Jenny will view your project during marking. Test that it looks/plays as expected. 
+
+Please remember that Jenny is available for tech support through Week 12 (next week) only and the last class is Wednesday 28th May. Jenny will attend this Wednesday 28th class to provide last-minute tech support and will wrap up with the evening drop-in session from 5.25-6.25pm. Jenny cannot guarantee availability to offer tech support on the 29th/30th due to full-time study so get in early. Email your problems/screenshot issues so that they sit in our inboxes and we will get to them as soon as time permits.
+
+Today we will walk over to 8.4.13 together for the Horizons showcase which runs from 3.30–5pm.
+
+### Wednesday class – 21st May
+
 ## Course Experience Survey - Open now
+
+Please take time in class to complete the CES.
 
 The CES has launched and we invite you to give feedback which will help shape future iterations of this course. Visit [this link](https://bit.ly/cesrmit) to let RMIT know what you thought of the learning experience, the online content, what you loved and what you'd change. The link closes on 8th June. *Take the survey asap and you'll be entered into a weekly draw where you can win a $500 voucher.*
 
