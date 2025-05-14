@@ -371,7 +371,7 @@ Make sure you have created a `video` folder within your project folder just as y
 
 ```
 <video width="640" height="360" autoplay loop muted>
-  <source src="./video/let-you-in.mp4" type="video/mp4">
+  <source src="./video/example.mp4" type="video/mp4">
 </video>
 ```
 
@@ -385,12 +385,10 @@ These attributes do the following:
 
 ```
 <video width="640" height="360" autoplay loop muted controls>
-  <source src="./video/let-you-in.mp4" type="video/mp4">
+  <source src="./video/example.mp4" type="video/mp4">
 </video>
 ```
  
-
-
 ## How do you show background videos in Twine?
 
 Adding a background video to a Twine passage is similar to adding audio or a foreground image. First, add a `video` directory to your Twine project directory (much like you have for audio and images). Then add the video file to the `video` directory. For instance, if you have a video called `video.mp4` you would add it to the `video` directory. As we are using GitHub the file cannot be larger than 25MB. If it is larger than this you will need to cut or compress the video.
