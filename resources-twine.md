@@ -365,6 +365,32 @@ To hide the targeted passage links - these are the links to the new story "rooms
 
 After you push your commits to GitHub using GitHub Desktop, navigate to your GitHub repository online and publish via GitHub pages.
 
+## Embedding a video into a Twine passage
+
+Make sure you have created a `video` folder within your project folder just as you created an `images` folder previously. If the video is named `example.mp4` then you would use the following code in your passage:
+
+```
+<video width="640" height="360" autoplay loop muted>
+  <source src="./video/let-you-in.mp4" type="video/mp4">
+</video>
+```
+
+These attributes do the following:
+
+	autoplay: Video starts playing automatically when the passage loads
+	loop: Video will continuously repeat
+	muted: Video plays without sound (many browsers require this for autoplay to work)
+
+ If you want the player to be able to see the control buttons for the video, such as play or stop, then adding the word "controls" to your code will enable that:
+
+```
+<video width="640" height="360" autoplay loop muted controls>
+  <source src="./video/let-you-in.mp4" type="video/mp4">
+</video>
+```
+ 
+
+
 ## How do you show background videos in Twine?
 
 Adding a background video to a Twine passage is similar to adding audio or a foreground image. First, add a `video` directory to your Twine project directory (much like you have for audio and images). Then add the video file to the `video` directory. For instance, if you have a video called `video.mp4` you would add it to the `video` directory. As we are using GitHub the file cannot be larger than 25MB. If it is larger than this you will need to cut or compress the video.
