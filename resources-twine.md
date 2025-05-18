@@ -365,7 +365,8 @@ The fourth of each of the rgba values determines whether you are making the item
 
 1. Copy the [contents of the Image Map Resizer](https://raw.githubusercontent.com/davidjbradshaw/imagemap-resizer/master/js/imageMapResizer.min.js) to the top of your Twine story JavaScript (Story->JavaScript).
 3. Update the script element at the bottom of the passage with your image map to:
-   ```html
+
+   ```
    <script>
     $('area').on('click', function(e){
 	  e.preventDefault();
@@ -374,10 +375,12 @@ The fourth of each of the rgba values determines whether you are making the item
     $('map').imageMapResize();
    </script>
    ```
+   
    **Important: make sure that your script includes the line `$('map').imageMapResize();` or it won't resize.**
-4. If you find that you're not getting the exact control over the image that you'd like, then assign the tag `imagemap` to your passage that has the image map by clicking `+ Tag` and then add the following code to your stylesheet:
+   
+5. If you find that you're not getting the exact control over the image that you'd like, then assign the tag `imagemap` to your passage that has the image map by clicking `+ Tag` and then add the following code to your stylesheet:
+   
    ```
-   /* Target only passages with the imagemap tag */
   tw-passage[tags~="imagemap"] {
     margin-top: 0 !important;
     padding-top: 0 !important;
