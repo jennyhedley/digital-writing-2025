@@ -380,12 +380,11 @@ The fourth of each of the rgba values determines whether you are making the item
    
 5. If you find that you're not getting the exact control over the image that you'd like, then assign the tag `imagemap` to your passage that has the image map by clicking `+ Tag` and then add the following code to your stylesheet:
    
-   ```
+```css
   tw-passage[tags~="imagemap"] {
     margin-top: 0 !important;
     padding-top: 0 !important;
   }
-  
   tw-passage[tags~="imagemap"] img {
     max-width: 100% !important;
     max-height: calc(90vh - 2cm) !important; /* You can also change this figure to just 90vh */
@@ -394,7 +393,7 @@ The fourth of each of the rgba values determines whether you are making the item
     padding: 0 !important;
     display: block !important;
   }
-  ```
+```
    
 ### Hiding the passage links
 
