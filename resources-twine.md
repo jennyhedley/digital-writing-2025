@@ -374,6 +374,8 @@ The fourth of each of the rgba values determines whether you are making the item
     $('map').imageMapResize();
    </script>
    ```
+   **Important: make sure that your script includes the line `$('map').imageMapResize();` or it won't resize.**
+   
 ### Hiding the passage links
 
 To hide the targeted passage links - these are the links to the new story "rooms" which are enclosed within two sets of square brackets - wrap your targeted passages within the following `div` tags:
