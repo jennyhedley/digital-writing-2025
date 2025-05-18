@@ -375,6 +375,23 @@ The fourth of each of the rgba values determines whether you are making the item
    </script>
    ```
    **Important: make sure that your script includes the line `$('map').imageMapResize();` or it won't resize.**
+4. If you find that you're not getting the exact control over the image that you'd like, then assign the tag `imagemap` to your passage that has the image map by clicking `+ Tag` and then add the following code to your stylesheet:
+5. ```
+   /* Target only passages with the imagemap tag */
+  tw-passage[tags~="imagemap"] {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+  
+  tw-passage[tags~="imagemap"] img {
+    max-width: 100% !important;
+    max-height: calc(90vh - 2cm) !important; /* You can also change this figure to just 90vh */
+    object-fit: contain !important;
+    margin: 0 auto 0 auto !important;
+    padding: 0 !important;
+    display: block !important;
+  }
+  ```
    
 ### Hiding the passage links
 
