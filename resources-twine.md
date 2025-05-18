@@ -169,6 +169,30 @@ tw-passage {
    <audio src="./audio/example.mp3" autoplay loop></audio>
    ```
 
+### Adding one persistant audio track to play throughout your piece
+
+The following code can be inserted into your JavaScript file to make a single audio track play continuously as the user navigates through passages. The following code assumes that you have created an `audio` file at the same directory level/hierarchy as you `images` file folder. Within that `audio` file if you label your music `background.mp3` the following JavaScript code will work. Please note that this code is designed for self-hosted music (e.g., in your GitHub repo) and not for external links. Some browsers will block autoplay. Some will allow it.
+
+```script
+window.onload = function () {
+    if (!document.getElementById("bg-music")) {
+        var audio = document.createElement("audio");
+        audio.id = "bg-music";
+        audio.loop = true;
+        audio.autoplay = true;
+        audio.volume = 0.5;
+        audio.setAttribute("preload", "auto");
+
+        var source = document.createElement("source");
+        source.src = "./audio/example.mp3";
+        source.type = "audio/mpeg";
+
+        audio.appendChild(source);
+        document.body.appendChild(audio);
+    }
+};
+```
+
 ## Image properties in Twine
 
 ### Scaling Images
