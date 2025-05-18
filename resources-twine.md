@@ -184,7 +184,7 @@ window.onload = function () {
         audio.setAttribute("preload", "auto");
 
         var source = document.createElement("source");
-        source.src = "./audio/example.mp3";
+        source.src = "./audio/background.mp3";
         source.type = "audio/mpeg";
 
         audio.appendChild(source);
