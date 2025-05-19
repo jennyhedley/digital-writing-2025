@@ -623,3 +623,12 @@ tw-sidebar
 ```
 
 This should remove the sidebar + arrows when added in, however it does not actually "remove" the sidebar, it just makes its contents invisible.
+
+## EMERGENCY HELP - If your Twine project and your GitHub are no longer speaking to one another, then implement this solution
+
+1. Quit VS code so that it isn't reading the wrong project file.
+2. Next, go to GitHub Desktop and create a new repository. Give it the name `final-twine-project` (no spaces) and for the "Local Path" select the digital-writing-projects folder you created on your desktop previously. Select the "Initialize this repository with a README" checkbox and click "Create Repository".
+3. Go to Twine and while in your existing project select "Publish to File" and navigate to the `final-twine-project` repository that you created. There should only be a "README.md" in the directory. **Save your file as `index.html` (this is very important).**
+4. Go to GitHub Desktop and your repository should show changes. Add a comment where "Summary (required)" is shown and click "Commit to main".
+5. In the folder on your desktop with the previous copy of your Twine project, select any `images` and/or `video` and or `audio` file folders. Copy-paste each of these media folders into the new `final-twine-project` folder that you created.
+6. When you go back to Twine and "Publish to file" and save as `index.html` in the `final-twine-project` folder, then when you commit the changes on GitHub desktop and click to preview in VS Code everything should work.
