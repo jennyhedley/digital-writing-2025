@@ -632,4 +632,4 @@ This should remove the sidebar + arrows when added in, however it does not actua
 4. Go to GitHub Desktop and your repository should show changes. Add a comment where "Summary (required)" is shown and click "Commit to main".
 5. In the folder on your desktop with the previous copy of your Twine project, select any `images` and/or `video` and or `audio` file folders. Copy-paste each of these media folders into the new `final-twine-project` folder that you created.
 6. When you go back to Twine and "Publish to file" and save as `index.html` in the `final-twine-project` folder, then when you commit the changes on GitHub desktop and click to preview in VS Code everything should work.
-7. Now remember that you need to publish your code via GitHub Pages, so navigate online to your GitHub repository and follow the usual directions which you can find [above](./main/resources-twine.md#publish-to-github).
+7. Now remember that you need to publish your code via GitHub Pages, so navigate online to your GitHub repository and follow the usual directions which you can find [above](/resources-twine.md#publish-to-github).
