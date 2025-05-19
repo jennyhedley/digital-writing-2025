@@ -388,7 +388,7 @@ The fourth of each of the rgba values determines whether you are making the item
 ### Scaling the Image Map
 
 1. Copy the [contents of the Image Map Resizer](https://raw.githubusercontent.com/davidjbradshaw/imagemap-resizer/master/js/imageMapResizer.min.js) to the top of your Twine story JavaScript (Story->JavaScript).
-3. Update the script element at the bottom of the passage with your image map to:
+2. Update the script element at the bottom of the passage with your image map to:
 
    ```
    <script>
@@ -402,7 +402,7 @@ The fourth of each of the rgba values determines whether you are making the item
    
    **Important: make sure that your script includes the line `$('map').imageMapResize();` or it won't resize.**
    
-5. If you find that you're not getting the exact control over the image that you'd like, then assign the tag `imagemap` to your passage that has the image map by clicking `+ Tag` and then add the following code to your stylesheet:
+3. If you find that you're not getting the exact control over the image that you'd like, then assign the tag `imagemap` to your passage that has the image map by clicking `+ Tag` and then add the following code to your stylesheet:
    
 ```css
   tw-passage[tags~="imagemap"] {
@@ -419,7 +419,7 @@ The fourth of each of the rgba values determines whether you are making the item
   }
 ```
    
-### Hiding the passage links
+### Hiding the passage links in the passage with the image map
 
 To hide the targeted passage links - these are the links to the new story "rooms" which are enclosed within two sets of square brackets - wrap your targeted passages within the following `div` tags:
 
@@ -434,6 +434,44 @@ To hide the targeted passage links - these are the links to the new story "rooms
 ### Publishing your image map
 
 After you push your commits to GitHub using GitHub Desktop, navigate to your GitHub repository online and publish via GitHub pages.
+
+### Can I have an image appear over the image map on page load and then fade out?
+
+The following solution, tailored for one of our writers, assumes that we are using an image of clouds but you can repurpose this code using any image you like.
+
+1. Make sure that in your images folder you have a file named clouds.jpg
+
+2. At the bottom of your passage below all the image map code and the linked passages add this line:
+
+```html
+<div id="cloudOverlay"></div>
+```
+
+3. At the bottom of your stylesheet add this code:
+
+```css
+#cloudOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url("./images/clouds.jpg");
+  background-size: cover;
+  z-index: 10;
+  opacity: 1;
+  pointer-events: none; /* This prevents it from blocking clicks */
+  animation: fadeCloud 3s ease-in forwards;
+}
+
+@keyframes fadeCloud {
+  0% { opacity: 1; }
+  100% { 
+    opacity: 0;
+    visibility: hidden; /* This removes it from the DOM after fade */
+  }
+}
+```
 
 ## Embedding a video into a Twine passage
 
