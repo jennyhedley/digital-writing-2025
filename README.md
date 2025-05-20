@@ -632,6 +632,8 @@ Today we will walk over to 8.4.13 together for the Horizons showcase which runs 
 
 ### Wednesday class – 21st May
 
+Today is a working session on both your final pieces and folios. In class Lucinda will be consulting on folio development and the structural and literary elements of your pieces. If you wish to work from home Lucinda can provide feedback through a screengrab video - please email any questions. It's important at this stage that your developing works are published through Gihhub pages or at least that the code is pushed to a repo on Github so we can view the work. We'll be checking this over the next week to make sure everyone is on track on this point and no one has a panic on the day of submission because they can't publish. Remember both Lucinda dn Jenny will be overseas in week 13 and not immedately contactable. In class today we will also troubleshoot common problems. We are finding that people are coming up against a lot of the same issues. Jenny has added these solutions to the Twine Resources page. 
+
 ## Course Experience Survey - Open now
 
 Please take time in class to complete the CES.
