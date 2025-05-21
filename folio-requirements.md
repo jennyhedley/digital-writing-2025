@@ -37,7 +37,7 @@ Ensure that you read the [digital writing folio assessment description in the cl
 **For the submission to Canvas, the PDF document should include:**
 
 - Your name
-- An artist statement (if this is already included in an artist CV or your website or GitHub repository, still have it here, but it can be the same).
+- An artist statement/bio (if this is already included in an artist CV or your website or GitHub repository, still have it here, but it can be the same).
 - A 500-word reflection on your key learning from the course and how your practice has developed as evidenced by your final creative work (if this is included in your GitHub digital writing folio, still have it here too).
 - An link to your artist website that serves as a CV (e.g. artist bio and publications).
 - A link to your GitHub account and your digital writing folio GitHub repository. 
