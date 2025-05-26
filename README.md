@@ -664,7 +664,7 @@ You can read the [rubric on Canvas](https://rmit.instructure.com/courses/146513/
 
 Where the rubric talks about the folio, please remember that your final digital project is a major part of that folio. Beyond the stated required documents, it is up to you to decide how you want to showcase your learning throughout the semester. We are looking for evidence of sustained engagement (with in-class exercises, some of the readings, the required reflections). You don't need to reflect on every single reading; there are not required reflections across all weeks. We won't be nitpicky and counting words. We expect that some exercises/reflections will be more generative for you than others - that's fine. Beyond the required folio items, it's up to you how to use the remainder of the 15-30 pages. 
 
-Regarding the assessment criteria:
+**Regarding the assessment criteria:**
 
 - **Objectives and Evidence** - We are looking (in both your PDF folio and your GitHub repositories/Pages links) for a well-developed final project with evidence of its development. We are looking also for your engagement with early experiments (e.g., the coding playground), which shouldn't be perfect. We will look in your repositories to see evidence of your many commits over time. If you've put in the hours and made an effort with the various technologies, it will be clear. 
 - **Annotations and Reflection** - The required critical reflections and reflection on practice will cover this criteria. If you include screenshots in your folio, you might wish to annotate them to tell us why you've included them (if it's not obvious). Your reflections can be in your PDF folio or in your GitHub repo or both, so long as you point us to where they are.
