@@ -652,4 +652,21 @@ Please take time in class to complete the CES.
 
 The CES has launched and we invite you to give feedback which will help shape future iterations of this course. Visit [this link](https://bit.ly/cesrmit) to let RMIT know what you thought of the learning experience, the online content, what you loved and what you'd change. The link closes on 8th June. *Take the survey asap and you'll be entered into a weekly draw where you can win a $500 voucher.*
 
+## Reminder re final folio
 
+Read the overview of Assessment 3 in the [course handbook](https://github.com/jennyhedley/digital-writing-2025/blob/main/class-handbook.md#task-3-folio-including-a-developed-creative-work-50).
+
+Remember to [attach/start with a cover sheet](https://github.com/jennyhedley/digital-writing-2025/blob/main/coversheet-for-developed-creative-work.md) for your developed creative work.
+
+The [folio requirements are laid out here](https://github.com/jennyhedley/digital-writing-2025/blob/main/folio-requirements.md).
+
+You can read the [rubric on Canvas](https://rmit.instructure.com/courses/146513/assignments/1050257), but most of that generalised assessment description doesn't relate specifically to our lab.
+
+Where the rubric talks about the folio, please remember that your final digital project is a major part of that folio. Beyond the stated required documents, it is up to you to decide how you want to showcase your learning throughout the semester. We are looking for evidence of sustained engagement (with in-class exercises, some of the readings, the required reflections). You don't need to reflect on every single reading; there are not required reflections across all weeks. We won't be nitpicky and counting words. We expect that some exercises/reflections will be more generative for you than others - that's fine. Beyond the required folio items, it's up to you how to use the remainder of the 15-30 pages. 
+
+Regarding the assessment criteria:
+
+- Objectives and Evidence - We are looking (in both your PDF folio and your GitHub repositories/Pages links) for a well-developed final project with evidence of its development. We are looking also for your engagement with early experiments (e.g., the coding playground), which shouldn't be perfect. We will look in your repositories to see evidence of your many commits over time. If you've put in the hours and made an effort with the various technologies, it will be clear. 
+- Annotations and Reflection - The required critical reflections and reflection on practice will cover this criteria. If you include screenshots in your folio, you might wish to annotate them to tell us why you've included them (if it's not obvious). Your reflections can be in your PDF folio or in your GitHub repo or both, so long as you point us to where they are.
+- Presentation - If you use the cover sheet, provide clear links to the GitHub repositorias and GitHub pages for your project/author website/experiments, include the reflections/exercises in some logical order, and annotate where anything is unclear, then great! No need to waste time on fancy styling or pro-level formatting - clear, logical and easy to read (e.g., a standard 12 pt font) is all we ask.
+- Referencing - You can include any references for the required in-class readings and reflections alongside your readings/reflections, or you can include a reference list at the end of your folio. 
