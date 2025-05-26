@@ -644,7 +644,7 @@ Your projects will be assessed before the planned shutdown so if you built yours
 
 Thankfully all of you will have your project code backed up in your GitHub repositories, so you will not lose your projects. The worse-case scenario is that if you uploaded all of your images and files to Glitch using the "assets" function, then the image URLs will break at whatever stage Glitch stops hosting images.
 
-To remedy this (should you wish for any Glitch projects to live on beyond this course, e.g. your artist websites), [Jenny posted a video](https://www.loom.com/share/4558e257703845b1b4c204aa667c187f?sid=c69d3f4d-a805-4d2b-b290-0c3223751129) demonstrating how to download your project, create an `img` folder for images (this is how we usually label it in HTML), transfer images there, update using VS Code and push to your repo using GitHub Desktop. 
+To remedy this (should you wish for any Glitch projects to live on beyond this course, e.g. your artist websites), [Jenny posted a video](https://www.loom.com/share/4558e257703845b1b4c204aa667c187f?sid=c69d3f4d-a805-4d2b-b290-0c3223751129) demonstrating how to download your project, create an `img` folder for images (this is how we usually label it in HTML), transfer images there, update using VS Code and push to your repo using GitHub Desktop. **Remember to make sure your images are not too big because the max file size is around 25mb in the free GitHub repositories.** If you are using up 25mb the final "push" shown in the video could take several minutes.
 
 We can also revisit this and any other tech questions in class Wednesday, since both Jenny and Lucinda will be there.
 
