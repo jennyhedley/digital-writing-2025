@@ -646,8 +646,6 @@ Thankfully all of you will have your project code backed up in your GitHub repos
 
 To remedy this (should you wish for any Glitch projects to live on beyond this course, e.g. your artist websites), [Jenny posted a 5-minute video](https://www.loom.com/share/4558e257703845b1b4c204aa667c187f?sid=c69d3f4d-a805-4d2b-b290-0c3223751129) demonstrating how to download your project, create an `img` folder for images (this is how we usually label it in HTML), transfer images there, update using VS Code and push to your repo using GitHub Desktop. **Remember to make sure your images are not too big because the max file size is around 25mb in the free GitHub repositories.** If you are using up 25mb the final "push" shown in the video could take several minutes.
 
-[Jenny has recorded a second video](https://www.loom.com/share/a3a0d21f1c5b4df98ac643e13e2d4b71?sid=2c7b5396-8d93-42d7-927c-2cec39dc7add) which focuses on moving just a single image from Glitch to GitHub - specifically, in our author websites. This video is great for beginners as it demonstrates a common directory error.
-
 We can also revisit this and any other tech questions in class Wednesday, since both Jenny and Lucinda will be there.
 
 ## Course Experience Survey - Open now
