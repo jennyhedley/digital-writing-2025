@@ -632,7 +632,19 @@ Today we will walk over to 8.4.13 together for the Horizons showcase which runs 
 
 ### Wednesday class – 21st May
 
-Today is a working session on both your final pieces and folios. In class Lucinda will be consulting on folio development and the structural and literary elements of your pieces. If you wish to work from home Lucinda can provide feedback through a screengrab video - please email any questions. It's important at this stage that your developing works are published through Gihhub pages or at least that the code is pushed to a repo on Github so we can view the work. We'll be checking this over the next week to make sure everyone is on track on this point and no one has a panic on the day of submission because they can't publish. Remember both Lucinda dn Jenny will be overseas in week 13 and not immedately contactable. In class today we will also troubleshoot common problems. We are finding that people are coming up against a lot of the same issues. Jenny has added these solutions to the Twine Resources page. 
+Today is a working session on both your final pieces and folios. In class Lucinda will be consulting on folio development and the structural and literary elements of your pieces. If you wish to work from home Lucinda can provide feedback through a screengrab video - please email any questions. It's important at this stage that your developing works are published through Gihhub pages or at least that the code is pushed to a repo on Github so we can view the work. We'll be checking this over the next week to make sure everyone is on track on this point and no one has a panic on the day of submission because they can't publish. Remember both Lucinda and Jenny will be overseas in week 13 and not immedately contactable. In class today we will also troubleshoot common problems. We are finding that people are coming up against a lot of the same issues. Jenny has added these solutions to the Twine Resources page. 
+
+## Week 12 (final week of class)
+
+Thank you to Mollie for letting us know about [Glitch's post](https://blog.glitch.com/post/changes-are-coming-to-glitch/) stating that they will begin shutting down hosting services on 8th July. The post indicates:
+
+- Your Glitch dashboard will be available through the end of 2025 with code downloads for all of your projects
+
+Your projects will be assessed before the planned shutdown so if you built yours using Glitch this will not affect your project for grading purposes. 
+
+Thankfully all of you will have your project code backed up in your GitHub repositories, so you will not lose your projects. The worse-case scenario is that if you uploaded all of your images and files to Glitch using the "assets" function, then the image URLs will break at whatever stage Glitch stops hosting images.
+
+To remedy this (should you wish for any Glitch projects to live on beyond this course, e.g. your artist websites), Jenny will post a video demonstrating how to download your project, create an `img` folder for images (this is how we usually label it in HTML), transfer images there, update using VS Code and push to your repo using GitHub Desktop. We can also cover this and any other tech questions in class Wednesday, since both Jenny and Lucinda will be there.
 
 ## Course Experience Survey - Open now
 
