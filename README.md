@@ -672,3 +672,13 @@ Where the rubric talks about the folio, please remember that your final digital 
 - **Annotations and Reflection** - The required critical reflections and reflection on practice will cover this criteria. If you include screenshots in your folio, you might wish to annotate them to tell us why you've included them (if it's not obvious). Your reflections can be in your PDF folio or in your GitHub repo or both, so long as you point us to where they are.
 - **Presentation** - If you use the cover sheet, provide clear links to the GitHub repositories and GitHub pages for your project/author website/experiments, include the reflections/exercises in some logical order, and annotate where anything is unclear, then great! No need to waste time on fancy styling or pro-level formatting - clear, logical and easy to read (e.g., a standard 12 pt font) is all we ask.
 - **Referencing** - You can include any references for the required in-class readings and reflections alongside your readings/reflections, or you can include a reference list at the end of your folio. Reference style is APA 7. You may wish to consult this [referencing guide](https://www.griffith.edu.au/library/study/referencing/apa-7#reference-list).
+
+## Final drop-in session online tonight 5.15 Wednesday May 28
+
+Just reminding you that tonight at 5.15 is the last session for any tech support from Jenny. Both Jenny and Lucinda be online tonight for the final drop in session.
+
+After tonight, if you are having tech issues with your story you must resolve them yourself, or hand it in as-is and include reflections on any problems that are unresolved. (In this reflection you should include the reason why it was not possible to resolve it within the 60 hours of class time allocated plus the additional 12 hours of drop in sessions.)
+
+The Teams Link for tonight is above in the introduction section of README.md
+
+**Until June 6 Lucinda is on email for emergency submission questions.**
