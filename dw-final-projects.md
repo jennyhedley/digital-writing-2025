@@ -21,7 +21,7 @@ protagonist, Estelle, as she recounts her journey into the jazz scene, and a mys
 
 A Control/Remedy Gaming Universe fanwork, it tells the story of Maya Chowdhury, who gets taken by one of the Oldest House’s building shifts, and she has to find a way out or remain lost forever.
 
-#### Surrealism
+#### Surrealism and Supernaturalism
 - Olivia B - [Nightfall](https://oliviabrcan.github.io/digital-writing-story/)
 
 This is an interactive fiction story that follows the protagonist, Riley, on their journey to return home. Riley has woken up in an unknown place with no memories of who they are or where they are from, and decides to accept the help of a local, Damien, to have a fighting chance of getting back. However, Riley’s courage is tested as they travel across the realm and learn that not everything is as it seems.
@@ -29,6 +29,23 @@ This is an interactive fiction story that follows the protagonist, Riley, on the
 - Charlotte B [How to Use a Lift](https://charlotteburnett.github.io/How-to-Use-a-Lift/)
 
 ‘How to Use a Lift’ is a digital interactive fiction work created using Twine. It beckons readers to operate the elevator of a mysterious tower and successfully navigate to their desired destination. Readers can decide if they will follow the instructions provided by the narrator, or if instead, they explore their own anxious doubts and the trickles of surrealism that arrive with every floor.
+
+- Angus K [Why The Long Face?](https://angusk-rmit.github.io/twine-final-projectv3/)
+  
+Description: Being diagnosed with a mysterious disease, you find out you only have four days
+left before you are turned into a horse. You will explore how you spend your last days while also
+battling ideas of what is important to you and what it means to have lived a good life.
+
+- Zoe T [ghosts](https://zoeniamh.github.io/digital-writing-twine/)
+
+Ghosts is a reflective poem that centres around grief, memory and the
+invisible strings that tie us to those we’ve lost. The piece is set against a Tasmanian
+backdrop, and explores how absence can feel strangely present, in both everyday
+moments and familiar places. The piece plays with the idea of ghost not being the classic supernatural beings, but
+more as a sort of emotional imprint, something that lingers in landscapes, gestures and
+inherited stories
+
+- Luke M - [Insomnomania](https://lukewmoroney.github.io/digital-writing-twine/)
 
 #### Coming of Age
 - Upani P – [Through the Front Door](https://upanicp.github.io/major-project/)
@@ -69,4 +86,4 @@ Follow alongside an unnamed individual, experiencing everyday obstacles that eve
 
 Directive is an interactive short story based around an office worker looking to return one of their company’s robots to a repair shop. On their journey, they are forced to reckon with the concepts of empathy, privacy, and the bounds of one’s loyalty to their place of employment. It was written in Inform 7, and is bundled with the Quixe interpreter.
 
-
+- Isabella T - [Rabbit](https://bellatatts.github.io/)
