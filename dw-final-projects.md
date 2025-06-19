@@ -36,6 +36,14 @@ Description: Being diagnosed with a mysterious disease, you find out you only ha
 left before you are turned into a horse. You will explore how you spend your last days while also
 battling ideas of what is important to you and what it means to have lived a good life.
 
+- Luke M - [Insomnomania](https://lukewmoroney.github.io/digital-writing-twine/)
+
+Insomnomania is a 51-passage Twine-based interactive fiction. Its story revolves
+around a surrealist representation of loss, experienced through the lens of an
+insomniac protagonist. Set in Utrecht, Netherlands the unnamed, potentially
+unreliable, narrator passes between reality and unreality as figures, sounds and
+colours recur, leading him through his psyche to self-actualisation.
+
 - Zoe T [ghosts](https://zoeniamh.github.io/digital-writing-twine/)
 
 Ghosts is a reflective poem that centres around grief, memory and the
@@ -43,9 +51,7 @@ invisible strings that tie us to those we’ve lost. The piece is set against a 
 backdrop, and explores how absence can feel strangely present, in both everyday
 moments and familiar places. The piece plays with the idea of ghost not being the classic supernatural beings, but
 more as a sort of emotional imprint, something that lingers in landscapes, gestures and
-inherited stories
-
-- Luke M - [Insomnomania](https://lukewmoroney.github.io/digital-writing-twine/)
+inherited stories.
 
 #### Coming of Age
 - Upani P – [Through the Front Door](https://upanicp.github.io/major-project/)
@@ -59,6 +65,14 @@ On Vanity and the Art of Comparison is a personal exploration of the concept of 
 - Lani S - [Reflection](https://lanisalt.github.io/assignment-two/) *Site under construction as of 19/6*
 
 My piece, ‘Reflections’ is an anthology of who I am as a person. The final work includes poems, social media posts, diary entries and other bits of intentional and unintentional bits of writing from around the time I collected them, which is meant to match the bricolage aspect of the mirror and contextualise each artifact. You progress through the story by clicking on the different images on the mirror, ‘unlocking’ more writing as you go.
+
+-Maya D - [Incandescent](https://mazpod44.github.io/digital-writing-twine/)
+
+Incandescent follows the inner dialogue of the narrator on their journey of belonging and
+transformation. Through poignant language, the poem explores impermanence, longing and
+the desire for true care. The piece symbolises both isolation and hope, a space where the
+narrator yearns to become something beautiful, even if fleeting. This work invites reflection
+on the fragility of existence and the quiet, aching search for meaning and connection.
 
 #### Travel/Personal Archive
 - Marley A - [The Tank](https://marleyabbott.github.io/the-tank-1/)
