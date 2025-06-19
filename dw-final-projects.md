@@ -1,6 +1,6 @@
 # Creative Works by the 2025 Digital Writing Cohort
 
-### Featuring mysteries, fan-fiction, sports and film lore, coming-of-age stories, travel, family archive, interactive fiction, games and more!
+### Featuring mysteries, fan-fiction, sports and film lore, coming-of-age stories, travel, family archive, interactive fiction, games and more! Copyright for each of these works remains with their respective authors.
 
 #### Mystery and Fantasy
 - Liv D - [Who Killed Miss Jones?](https://livdelesantis.github.io/digital-writing-twine/)
