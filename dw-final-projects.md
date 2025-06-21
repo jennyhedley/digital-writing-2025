@@ -12,7 +12,7 @@ In 'Who Killed Miss Jones?', the small, rural Victorian town of Sentry Creek is 
 A website-based piece of interactive fiction for ARG and mystery fans alike, Kaitlyn’s Blog is an interactive mystery in which you must find the answer to your girlfriend’s years-old disappearance. Utilising hidden links, codes, and secret messages, this piece of interactive fiction will have you navigate the increasingly complex maze that’s hidden beneath the many layers that makes up the gentle façade that has become Kaitlyn’s Blog.
 Content warning for mentions of domestic abuse, violence, and murder.
 
-- Farida S - [Flapper](https://github.com/faridashams/Flapper-ongoing-project)
+- Farida S - [Flapper](https://faridashams.github.io/Flapper-ongoing-project/)
 
 A fiction murder mystery set in 1920s New York, where it follows main
 protagonist, Estelle, as she recounts her journey into the jazz scene, and a mysterious death that surrounds the troupe in a series of journal entries.
